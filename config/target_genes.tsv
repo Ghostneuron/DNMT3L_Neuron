@@ -1,0 +1,11 @@
+species	gene_symbol	family	aliases	ensembl_hint	notes
+human	DNMT3L	DNMT3	DNMT3L	ENSG00000142182	Primary gene of interest; chromosome 21 dosage context.
+human	DNMT3A	DNMT3	DNMT3A	ENSG00000119772	De novo methyltransferase partner.
+human	DNMT3B	DNMT3	DNMT3B	ENSG00000088305	De novo methyltransferase partner.
+human	STAT1	STAT	STAT1	ENSG00000115415	Candidate methylation-independent signaling axis.
+human	STAT3	STAT	STAT3	ENSG00000168610	Candidate methylation-independent signaling axis.
+mouse	Dnmt3l	DNMT3	Dnmt3l|DNMT3L	ENSMUSG00000000730	Primary mouse ortholog.
+mouse	Dnmt3a	DNMT3	Dnmt3a|DNMT3A	ENSMUSG00000020661	Mouse de novo methyltransferase partner.
+mouse	Dnmt3b	DNMT3	Dnmt3b|DNMT3B	ENSMUSG00000027478	Mouse de novo methyltransferase partner.
+mouse	Stat1	STAT	Stat1|STAT1	ENSMUSG00000026104	Mouse STAT pathway candidate.
+mouse	Stat3	STAT	Stat3|STAT3	ENSMUSG00000004040	Mouse STAT pathway candidate.

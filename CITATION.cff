@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software release and the associated manuscript."
+title: "DNMT3L Neuron: public multi-omic analysis code for DNMT3L-linked methylation and STAT/TF hypotheses in Down syndrome neurodevelopment"
+type: software
+authors:
+  - family-names: Lu
+    given-names: Jie
+    affiliation: "Independent researcher, San Francisco, California, USA"
+version: "0.1.0"
+date-released: "2026-06-20"
+keywords:
+  - DNMT3L
+  - Down syndrome
+  - neurodevelopment
+  - DNA methylation
+  - STAT3
+  - multi-omics
+license: MIT

@@ -1,0 +1,31 @@
+{
+  "title": "DNMT3L Neuron: code for public multi-omic analysis of DNMT3L-linked methylation and STAT/TF hypotheses in Down syndrome neurodevelopment",
+  "upload_type": "software",
+  "description": "Analysis code, configuration files, and reproducibility documentation for an in-silico study of DNMT3L-linked methylation, transcriptomic, chromatin-accessibility, and transcription-factor hypotheses in Down syndrome neurodevelopment.",
+  "creators": [
+    {
+      "name": "Lu, Jie",
+      "affiliation": "Independent researcher, San Francisco, California, USA"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "DNMT3L",
+    "Down syndrome",
+    "neurodevelopment",
+    "DNA methylation",
+    "STAT1",
+    "STAT3",
+    "GEO",
+    "HOMER",
+    "multi-omics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ],
+  "access_right": "open"
+}

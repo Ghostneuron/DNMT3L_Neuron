@@ -1,0 +1,21 @@
+name: dnmt3l-neuron
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - h5py
+  - openpyxl
+  - python-docx
+  - requests
+  - r-base>=4.3
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - pip
+  - pip:
+      - pyliftover

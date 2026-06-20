@@ -1,0 +1,8 @@
+species	genome_build	source_type	label	path_glob
+human	hg19	accessibility	GSE149268_fetal_telencephalon_OCR	data/geo/GSE149268/supplementary/GSE149268_annotation-ocr-hg19.bed.gz
+human	hg19	regulatory_element	GSE149268_fetal_telencephalon_pRE	data/geo/GSE149268/supplementary/GSE149268_annotation-pre-hg19.bed.gz
+human	hg19	histone_mark	GSE149268_human_fetal_telencephalon_ChIP_marks	data/geo/GSE149268/supplementary/GSM*_chip-*-hg19.bed.gz
+mouse	mm10	accessibility	GSE172703_mouse_E14_5_forebrain_ATAC	data/geo/GSE172703/supplementary/*peaks_mm10.bed.gz
+mouse	mm10	histone_mark	GSE201487_mouse_embryonic_forebrain_H3K4me3	data/geo/GSE201487/supplementary/GSE201487_*_H3K4ME3.bed.gz
+mouse	mm10	histone_mark	GSE201488_mouse_embryonic_forebrain_H3K27me3	data/geo/GSE201488/supplementary/GSE201488_*_H3K27ME3.bed.gz
+mouse	mm10	histone_mark	GSE201400_mouse_embryonic_forebrain_H3K27ac	data/geo/GSE201400/supplementary/GSE201400_*_H3K27AC.bed.gz

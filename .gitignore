@@ -1,0 +1,26 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+.matplotlib/
+.playwright-cli/
+
+# Local manuscript drafts, rendered pages, final figure composites,
+# supplementary tables, and submission packaging.
+manuscript/
+
+# Downloaded payloads and derived analysis outputs can be regenerated
+# from public accessions or controlled-access sources described in docs.
+data/
+results/
+figures/
+notes/
+output/
+tmp/
+Literature/
+release/
+dist/
+
+# Local code-release staging folders copied from the project source files.
+GitHub_Zenodo_Code_Release_*/
+Zenodo_Research_Compendium_*/
