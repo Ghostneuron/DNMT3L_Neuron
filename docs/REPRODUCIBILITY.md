@@ -1,6 +1,6 @@
 # Reproducibility Guide
 
-This guide summarizes the code organization and the main commands needed to recreate the manuscript-facing analyses. Paths assume execution from the repository root.
+This guide summarizes the code organization and the main commands needed to recreate the paper-facing analyses. Paths assume execution from the repository root.
 
 ## 1. Environment
 
@@ -122,10 +122,9 @@ python scripts/analyze_human_ds_neurogenesis_timing_modules.py
 python scripts/build_final_mechanism_axis_summary.py
 ```
 
-## 7. Manuscript-Facing Manifests
+## 7. Release Manifests
 
 ```bash
-python scripts/build_manuscript_methods_and_figure_manifest.py
 python scripts/build_code_release_manifest.py
 ```
 

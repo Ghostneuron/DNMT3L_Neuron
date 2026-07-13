@@ -105,11 +105,10 @@ python scripts/analyze_gse305146_marker_atac_peak_da.py
 python scripts/analyze_gse305146_marker_atac_gc_chromvar.py
 ```
 
-Build manuscript-facing summaries:
+Build final evidence summaries:
 
 ```bash
 python scripts/build_manuscript_candidate_summary.py
-python scripts/build_manuscript_methods_and_figure_manifest.py
 python scripts/build_final_mechanism_axis_summary.py
 ```
 
