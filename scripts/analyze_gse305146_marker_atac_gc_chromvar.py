@@ -7,6 +7,7 @@ import argparse
 import csv
 import gzip
 import math
+import os
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -44,7 +45,11 @@ def parse_args() -> argparse.Namespace:
             "annotatePeaks/gse305146_recurrent_background_motif_deviation.annotatePeaks.nmotifs.tsv"
         ),
     )
-    parser.add_argument("--genome-fasta", default="/Users/jili/tools/homer/data/genomes/hg38/genome.fa")
+    parser.add_argument(
+        "--genome-fasta",
+        default=os.environ.get("HG38_FASTA", "data/reference/hg38/genome.fa"),
+        help="hg38 FASTA path (default: $HG38_FASTA or data/reference/hg38/genome.fa).",
+    )
     parser.add_argument("--outdir", default="results/mechanism_question")
     parser.add_argument("--figdir", default="figures/mechanism_question")
     parser.add_argument("--note", default="notes/gse305146_marker_atac_gc_chromvar_first_pass.md")

@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript:
 
-**Public multi-omic evidence maps DNMT3L-linked methylation and STAT/TF hypotheses in Down syndrome neurodevelopment**
+**Stage-aware multi-omic analysis prioritizes DNMT3L-associated methylation programs in Down syndrome neurodevelopment**
 
 Author: Jie Lu, Independent researcher, San Francisco, California, USA
 
@@ -20,7 +20,7 @@ The analyses use public transcriptomic, methylomic, chromatin-accessibility, mot
 
 - `scripts/`: Python and R analysis scripts.
 - `config/`: dataset, target-gene, and regulatory-source manifests.
-- `docs/`: GitHub/Zenodo release notes, reproducibility guide, file manifests, and data-source notes.
+- `docs/`: release notes, reproducibility guide, file manifests, and data-source notes.
 - `requirements.txt`: Python package requirements for most scripts.
 - `environment.yml`: Conda-style environment summary.
 - `.zenodo.json`: draft Zenodo metadata for a software/code release.
@@ -50,7 +50,7 @@ install.packages(c("BiocManager"))
 BiocManager::install(c("DESeq2", "edgeR"))
 ```
 
-HOMER must be installed separately for motif analyses. Add `findMotifsGenome.pl` to `PATH` before running the HOMER scripts.
+HOMER must be installed separately for motif analyses. Set `HOMER_HOME` to the HOMER installation root and add `$HOMER_HOME/bin` to `PATH`. For GC-matched analyses, set `HG38_FASTA` or pass `--genome-fasta`.
 
 ## Data Layout
 

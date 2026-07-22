@@ -1,7 +1,7 @@
 {
-  "title": "DNMT3L Neuron: code for public multi-omic analysis of DNMT3L-linked methylation and STAT/TF hypotheses in Down syndrome neurodevelopment",
+  "title": "DNMT3L Neuron: analysis code for stage-aware multi-omic study of Down syndrome neurodevelopment",
   "upload_type": "software",
-  "description": "Analysis code, configuration files, and reproducibility documentation for an in-silico study of DNMT3L-linked methylation, transcriptomic, chromatin-accessibility, and transcription-factor hypotheses in Down syndrome neurodevelopment.",
+  "description": "Analysis code, configuration files, and reproducibility documentation associated with the manuscript 'Stage-aware multi-omic analysis prioritizes DNMT3L-associated methylation programs in Down syndrome neurodevelopment'. The repository supports public transcriptomic, methylomic, chromatin-accessibility, motif, and regulatory-context analyses.",
   "creators": [
     {
       "name": "Lu, Jie",

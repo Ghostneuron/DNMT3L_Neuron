@@ -25,7 +25,8 @@ from infer_gse305146_marker_cell_classes_and_targets import (
 )
 
 
-HOMER_BIN = Path("/Users/jili/tools/homer/bin")
+HOMER_HOME = Path(os.environ.get("HOMER_HOME", "homer"))
+HOMER_BIN = HOMER_HOME / "bin"
 ANNOTATE_PEAKS = HOMER_BIN / "annotatePeaks.pl"
 STAT_CONTROL_MOTIFS = [
     {

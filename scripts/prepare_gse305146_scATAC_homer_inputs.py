@@ -6,13 +6,14 @@ from __future__ import annotations
 import argparse
 import csv
 import gzip
+import os
 import random
 import re
 from collections import defaultdict
 from pathlib import Path
 
 
-HOMER_BIN = "/Users/jili/tools/homer/bin/findMotifsGenome.pl"
+HOMER_BIN = os.environ.get("HOMER_FIND_MOTIFS", "findMotifsGenome.pl")
 STANDARD_CHROMS = [f"chr{i}" for i in range(1, 23)] + ["chrX", "chrY"]
 CHROM_RANK = {chrom: rank for rank, chrom in enumerate(STANDARD_CHROMS)}
 

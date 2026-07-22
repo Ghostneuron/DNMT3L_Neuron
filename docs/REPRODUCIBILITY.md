@@ -19,7 +19,7 @@ python -m pip install -r requirements.txt
 
 R scripts require Bioconductor `DESeq2` and `edgeR`.
 
-HOMER motif analyses require an external HOMER installation with `findMotifsGenome.pl` available in `PATH`.
+HOMER motif analyses require an external HOMER installation. Set `HOMER_HOME` to the installation root, add `$HOMER_HOME/bin` to `PATH`, and set `HG38_FASTA` (or pass `--genome-fasta`) for GC-matched analyses.
 
 ## 2. Data Inventory And Download
 

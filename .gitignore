@@ -24,3 +24,9 @@ dist/
 # Local code-release staging folders copied from the project source files.
 GitHub_Zenodo_Code_Release_*/
 Zenodo_Research_Compendium_*/
+
+# Local publication and release staging folders.
+Epigenomics submission/
+bioRxiv_Submission_*/
+GitHub_Upload_*/
+Zenodo_Upload_*/

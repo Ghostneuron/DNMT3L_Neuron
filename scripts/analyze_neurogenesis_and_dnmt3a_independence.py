@@ -757,7 +757,7 @@ def write_note(
         "",
         "## Data used",
         "",
-        "- `GSE268951`: P28 medial frontal cortex Dnmt3l overexpression RNA-seq. Primary expression effects use a public GEO processed expected-count reanalysis from `GSE268951_all.fpkm_mRNA_anno.txt.gz` with DESeq2 and edgeR; FPKM is retained only as abundance context. The local `CON-VS-OE_DE_anno.xls` table is excluded from manuscript evidence because it is not a GEO public supplementary file.",
+        "- `GSE268951`: P28 medial frontal cortex Dnmt3l overexpression RNA-seq. Primary expression effects use a public GEO processed expected-count reanalysis from `GSE268951_all.fpkm_mRNA_anno.txt.gz` with DESeq2 and edgeR; FPKM is retained only as abundance context.",
         "- `GSE141587`: P39 frontal cortex excitatory-neuron Dnmt3a cKO RNA-seq edgeR table.",
         "- `GSE271949`: Dnmt3l overexpression methylation DMRs, used to mark nearby DMR support.",
         "- Final 24-gene manuscript candidate table.",

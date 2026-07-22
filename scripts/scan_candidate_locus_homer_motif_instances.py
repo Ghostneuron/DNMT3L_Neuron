@@ -38,7 +38,8 @@ DS_OPEN_PEAKS = Path("results/gse305146_scATAC_homer_motif_enrichment/tables/GSE
 CONTROL_OPEN_PEAKS = Path("results/gse305146_scATAC_homer_motif_enrichment/tables/GSE305146_Control_open_recurrent_peak_calls.tsv")
 MOTIF_GROUPS = Path("results/mechanism_question/homer_cross_context_motif_family_group_summary.tsv")
 
-HOMER_BIN = Path("/Users/jili/tools/homer/bin")
+HOMER_HOME = Path(os.environ.get("HOMER_HOME", "homer"))
+HOMER_BIN = HOMER_HOME / "bin"
 ANNOTATE_PEAKS = HOMER_BIN / "annotatePeaks.pl"
 STAT_CONTROL_MOTIFS = [
     {

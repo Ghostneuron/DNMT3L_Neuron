@@ -182,7 +182,7 @@ note_lines <- c(
   "",
   "This public-data reanalysis uses the GEO supplementary table `GSE268951_all.fpkm_mRNA_anno.txt.gz`, which contains both per-sample `expected_count` and FPKM columns despite the filename. Transcript rows were collapsed to gene level by summing `expected_count` and FPKM values across rows with the same `GeneID`.",
   "",
-  "These public expected-count DESeq2/edgeR results are the manuscript-facing `GSE268951` RNA-seq effects. The local `CON-VS-OE_DE_anno.xls` table is not a GEO public supplementary file and is therefore excluded from manuscript evidence. FPKM columns are retained only for abundance/context.",
+  "These public expected-count DESeq2/edgeR results are the manuscript-facing `GSE268951` RNA-seq effects. FPKM columns are retained only for abundance/context.",
   "",
   "The sensitivity DESeq2 model used design `~ sex + condition`, comparing Dnmt3l-OE samples (`C-1` to `C-3`, `D-1` to `D-3`) against controls (`A-1` to `A-3`, `B-1` to `B-3`). edgeR quasi-likelihood results are included as an additional sensitivity check.",
   "",
