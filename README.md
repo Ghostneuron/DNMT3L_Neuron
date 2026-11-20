@@ -1,12 +1,26 @@
 # DNMT3L Neuron
 
-Analysis code and reproducibility materials for **Context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment**.
+Analysis code and reproducibility materials for **Directional concordance of DNMT3L-associated methylation in fetal Down syndrome brain**.
 
 Jie Lu, Independent researcher, San Francisco, California, USA.
 
-## R1 reproducibility materials
+## Brief Report reproducibility materials
 
-Version 1.1.0 adds the analyses for the revised results.
+Version 1.2.0 contains the donor-level fetal methylation analysis, matched CpG benchmark and paired comparison with the human DNMT3A W330R fibroblast signature.
+
+| Fetal cohort | Direction-adjusted DNMT3L OR (95% CI) | DNMT3L-to-DNMT3A ratio of ORs (95% CI) |
+| --- | ---: | ---: |
+| GSE74486 fetal cerebrum | 1.63 (0.66–3.16) | 2.15 (0.81–3.91) |
+| GSE73747 fetal cortex | 1.62 (0.96–2.24) | 2.10 (1.16–2.88) |
+| GSE73747 deposited beta sensitivity | 1.93 (0.97–2.48) | 2.42 (1.16–3.24) |
+
+Both fetal cohorts exceeded all 2,000 matched CpG panels with the observed donors held fixed. The intervals above reflect resampling of DS and control donors. The DNMT3A reference differs from the DNMT3L model in lineage and perturbation.
+
+See the [Brief Report reproducibility guide](docs/brief_report/README.md) and [full estimates](docs/brief_report/estimates.tsv) for public inputs, code, the frozen signature and figure-generation commands.
+
+## Archived R1 reproducibility materials
+
+Version 1.1.0 documents the preceding analysis, “Context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment.”
 
 Download the [version 1.1.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.20770052) for the processed inputs, full supporting tables, expected outputs and figures.
 

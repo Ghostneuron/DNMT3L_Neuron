@@ -1,21 +1,21 @@
 {
-  "title": "DNMT3L Neuron: code for DNMT3L-sensitive methylation in Down syndrome neurodevelopment",
+  "title": "DNMT3L Neuron code for fetal Down syndrome methylation concordance",
   "upload_type": "software",
-  "description": "Analysis code for the study of context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment. Version 1.1.0 adds conditional human CpG concordance, the shared-CpG mouse comparison, gene-level candidate scoring and sensitivity analyses, and figure reproduction.",
+  "description": "Reproducibility code for the Brief Report on fetal Down syndrome methylation concordance. Version 1.2.0 analyzes donor-level direction odds ratios, matched CpG panels and a DNMT3A W330R fibroblast comparator.",
   "creators": [
     {
       "name": "Lu, Jie",
       "affiliation": "Independent researcher, San Francisco, California, USA"
     }
   ],
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "keywords": [
     "DNMT3L",
+    "DNMT3A",
     "Down syndrome",
-    "neurodevelopment",
-    "DNA methylation",
-    "multi-omics"
+    "fetal brain",
+    "DNA methylation"
   ],
   "access_right": "open"
 }

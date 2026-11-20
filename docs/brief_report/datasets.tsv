@@ -1,0 +1,6 @@
+accession	source	role	biological_context
+GSE157078	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157078	External DNMT3L signature and assay coverage	Human fetal neural cultures with DNMT3L overexpression and controls
+GSE74486	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74486	Primary fetal DS cohort	Human fetal whole cerebrum, 8 DS and 6 control donors
+GSE73747	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73747	Second fetal DS cohort and regional sensitivity	Human fetal frontal and temporal cortex, 16 DS and 26 control donors
+GSE120558	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120558	DNMT3A gain-of-function benchmark	Human fibroblasts, 2 W330R and 3 control donors
+GPL13534	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL13534	CpG island and probe annotation	Illumina HumanMethylation450 array
