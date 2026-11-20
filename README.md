@@ -8,6 +8,8 @@ Jie Lu, Independent researcher, San Francisco, California, USA.
 
 Version 1.2.0 contains the donor-level fetal methylation analysis, matched CpG benchmark and paired comparison with the human DNMT3A W330R fibroblast signature.
 
+Download the [version 1.2.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.24406697) for the frozen signature, analysis code, native result tables and figures.
+
 | Fetal cohort | Direction-adjusted DNMT3L OR (95% CI) | DNMT3L-to-DNMT3A ratio of ORs (95% CI) |
 | --- | ---: | ---: |
 | GSE74486 fetal cerebrum | 1.63 (0.66–3.16) | 2.15 (0.81–3.91) |
