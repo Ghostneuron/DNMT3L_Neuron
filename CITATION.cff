@@ -1,18 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the software release and the associated manuscript."
-title: "DNMT3L Neuron: analysis code for stage-aware multi-omic study of Down syndrome neurodevelopment"
+message: "Please cite this software version and the associated study when using these analyses."
+title: "DNMT3L Neuron: code for DNMT3L-sensitive methylation in Down syndrome neurodevelopment"
 type: software
 authors:
   - family-names: Lu
     given-names: Jie
     affiliation: "Independent researcher, San Francisco, California, USA"
-version: "1.0.0"
-date-released: "2026-07-22"
+version: "1.1.0"
+date-released: "2026-11-20"
+repository-code: "https://github.com/Ghostneuron/DNMT3L_Neuron"
 keywords:
   - DNMT3L
   - Down syndrome
   - neurodevelopment
   - DNA methylation
-  - STAT3
   - multi-omics
 license: MIT

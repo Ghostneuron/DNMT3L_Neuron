@@ -1,16 +1,7 @@
-# Code Availability
+# Code and Data Availability
 
-The analysis code supporting the manuscript is provided in this repository.
+Use [`scripts/reanalyze_r1.py`](scripts/reanalyze_r1.py) for the version 1.1.0 analyses. The script uses Python 3.10 or newer and the processed inputs named in the [R1 reproducibility guide](docs/R1_REPRODUCIBILITY.md). The [summary tables](docs/r1/) and [dataset roles](config/r1_datasets.tsv) are available here. Use [`scripts/draw_r1_figures.py`](scripts/draw_r1_figures.py) for the R1 figure PDFs.
 
-The repository includes:
+The broader workflow and dataset accessions are documented in [the original pipeline guide](docs/REPRODUCIBILITY.md) and [the data-source catalog](docs/DATA_SOURCES.md). Raw public data are obtained from their original providers. Access to controlled postnatal Down syndrome data follows dbGaP terms. The R1 workflow uses public or derived processed inputs and does not require controlled-access downloads.
 
-- Python and R scripts in `scripts/`;
-- dataset and target-gene manifests in `config/`;
-- reproducibility and release documentation in `docs/`;
-- citation and Zenodo metadata in `CITATION.cff` and `.zenodo.json`.
-
-Downloaded data, controlled-access data, intermediate results, final figures, manuscript drafts, and local cache files are excluded from version control. Public inputs are identified by accession in `config/datasets.tsv` and `docs/DATA_SOURCES.md`.
-
-Large public datasets should be re-downloaded from the original repositories rather than redistributed in the code repository. Controlled-access postnatal Down syndrome PFC data remain subject to dbGaP access terms.
-
-The code is licensed under the MIT License. Data remain governed by the licenses, terms, and access restrictions of the original data providers.
+Code is licensed under [MIT](LICENSE). The author-generated R1 summary tables are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source data remain subject to their providers' conditions.

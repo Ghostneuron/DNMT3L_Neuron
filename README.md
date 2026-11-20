@@ -1,22 +1,20 @@
 # DNMT3L Neuron
 
-Code accompanying the manuscript:
+Analysis code and reproducibility materials for **Context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment**.
 
-**Stage-aware multi-omic analysis prioritizes DNMT3L-associated methylation programs in Down syndrome neurodevelopment**
+Jie Lu, Independent researcher, San Francisco, California, USA.
 
-Author: Jie Lu, Independent researcher, San Francisco, California, USA
+## R1 reproducibility materials
 
-## Purpose
+Version 1.1.0 adds the analyses for the revised results.
 
-This repository contains analysis code, configuration files, and reproducibility documentation for an in-silico study of whether altered `DNMT3L` dosage in Down syndrome neurodevelopment is linked to:
+- Human methylation concordance compares the observed sign agreement with a stratified expectation within the archived DNMT3L-sensitive CpG set.
+- The mouse segmental-trisomy comparison evaluates the 3,089 CpGs available in both comparison tracks.
+- Candidate scores use gene-level GSE268951 expression and are evaluated across alternative weights and evidence components.
 
-1. `DNMT3A`/`DNMT3B`-compatible DNA methylation changes;
-2. STAT/transcription-factor or cell-state mechanisms that may be partly methylation-independent;
-3. stage- and cell-type-specific combinations of these mechanisms.
+The public summary tables are in [`docs/r1/`](docs/r1/). See the [R1 reproducibility guide](docs/R1_REPRODUCIBILITY.md) for commands, input requirements and interpretation, and the [release notes](docs/RELEASE_NOTES_20261120.md) for changes. The original Python and R pipeline remains available below.
 
-The analyses use public transcriptomic, methylomic, chromatin-accessibility, motif-enrichment, and reference-expression datasets, mainly from GEO, Allen Institute resources, and Zenodo/dbGaP-linked postnatal Down syndrome brain resources.
-
-## Repository Contents
+## Original pipeline and repository contents
 
 - `scripts/`: Python and R analysis scripts.
 - `config/`: dataset, target-gene, and regulatory-source manifests.
@@ -26,7 +24,7 @@ The analyses use public transcriptomic, methylomic, chromatin-accessibility, mot
 - `.zenodo.json`: draft Zenodo metadata for a software/code release.
 - `CITATION.cff`: GitHub citation metadata.
 
-Large downloaded data, controlled-access data, derived result tables, manuscript drafts, and final figure composites are intentionally not tracked in the code repository. They can be regenerated or obtained from the sources listed in `config/datasets.tsv` and `docs/DATA_SOURCES.md`.
+Large downloaded data, controlled-access data, manuscript drafts, and full result tables are stored outside the code repository. The R1 summary tables are in [`docs/r1/`](docs/r1/). They can be regenerated or obtained from the sources listed in `config/datasets.tsv` and `docs/DATA_SOURCES.md`.
 
 ## Quick Start
 

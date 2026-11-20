@@ -1,31 +1,21 @@
 {
-  "title": "DNMT3L Neuron: analysis code for stage-aware multi-omic study of Down syndrome neurodevelopment",
+  "title": "DNMT3L Neuron: code for DNMT3L-sensitive methylation in Down syndrome neurodevelopment",
   "upload_type": "software",
-  "description": "Analysis code, configuration files, and reproducibility documentation associated with the manuscript 'Stage-aware multi-omic analysis prioritizes DNMT3L-associated methylation programs in Down syndrome neurodevelopment'. The repository supports public transcriptomic, methylomic, chromatin-accessibility, motif, and regulatory-context analyses.",
+  "description": "Analysis code for the study of context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment. Version 1.1.0 adds conditional human CpG concordance, the shared-CpG mouse comparison, gene-level candidate scoring and sensitivity analyses, and figure reproduction.",
   "creators": [
     {
       "name": "Lu, Jie",
       "affiliation": "Independent researcher, San Francisco, California, USA"
     }
   ],
+  "version": "1.1.0",
   "license": "MIT",
   "keywords": [
     "DNMT3L",
     "Down syndrome",
     "neurodevelopment",
     "DNA methylation",
-    "STAT1",
-    "STAT3",
-    "GEO",
-    "HOMER",
     "multi-omics"
-  ],
-  "related_identifiers": [
-    {
-      "identifier": "https://www.ncbi.nlm.nih.gov/geo/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    }
   ],
   "access_right": "open"
 }

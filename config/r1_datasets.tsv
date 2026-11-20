@@ -1,0 +1,18 @@
+dataset	role_in_revision	species	system	assay	design
+GSE157078	Core human perturbation methylation	Homo sapiens	cultured human fetal cortical neurons	Illumina EPIC 850K methylation array	DNMT3L overexpression versus control
+GSE157080	Core human perturbation expression	Homo sapiens	cultured human fetal cortical neurons	RNA-seq	DNMT3L overexpression versus control
+GSE168276	Core secondary human neuronal-model methylation	Homo sapiens	SH-SY5Y neuronal differentiation	WGBS	DNMT3L overexpression across neuronal differentiation context
+GSE271949	Core mouse P28 perturbation methylation	Mus musculus	P28 medial frontal cortex, Emx1 lineage	DNA methylation capture bisulfite sequencing	Dnmt3l conditional overexpression versus control
+GSE268951	Core mouse P28 perturbation expression	Mus musculus	P28 medial frontal cortex, Emx1 lineage	RNA-seq plus noncoding RNA profiling	Dnmt3l conditional overexpression versus control
+GSE214273	Adult Dp(10)2Yey expression scoring component	Mus musculus	adult hippocampus	10x single-cell RNA-seq	Dp(10)2Yey versus wild-type littermates
+GSE74505	Core newborn mouse shared-CpG contrast Dp(10)1Yey and Dp(16)1Yey	Mus musculus	newborn cerebral hemisphere	WGBS methylation	Dp(10)1Yey and Dp(16)1Yey versus wild-type littermate
+GSE73747	Core fetal DS methylation	Homo sapiens	fetal cortex	Illumina 450K methylation array	Down syndrome versus control fetal cortex
+GSE301886	Human expression scoring component	Homo sapiens	fetal PFC and hippocampus	bulk RNA-seq	Trisomy 21 versus euploid controls, 13-22 post-conception weeks
+GSE305153	Fetal expression scoring component	Homo sapiens	developing fetal cortex	single-cell multiome plus bulk/derived neural contexts	DS versus control fetal cortical development, superseries
+GSE305139	Human expression scoring component	Homo sapiens	fetal cortex	bulk RNA-seq	DS versus control fetal cortex bulk RNA-seq
+GSE305146	Fetal DS ATAC context	Homo sapiens	fetal cortex	10x single-cell multiome	DS versus control with PCW adjustment. The archived ATAC analysis used 16 DS and 17 control sample IDs. The source article reports 15 per group after its own quality-control filters.
+GSE74486	Core fetal DS methylation and adult context	Homo sapiens	fetal/adult brain and sorted brain cells	Illumina 450K methylation array	Down syndrome versus controls across fetal cerebrum, adult cortex/cerebellum, neurons/non-neurons
+GSE104276	Contextual fetal expression	Homo sapiens	developing prefrontal cortex	single-cell RNA-seq	human fetal cortical development
+GSE141587	Contextual P39 excitatory-neuron Dnmt3a knockout	Mus musculus	frontal cortex excitatory pyramidal neurons	MethylC-seq, RNA-seq, and ChIP-seq	Dnmt3a conditional knockout versus control
+GSE77565	Fetal 3D domain annotation	Homo sapiens	mid-gestation developing human cerebral cortex	Hi-C	fetal cortical plate and germinal zone
+GSE263069	Contextual Drosophila larval transcriptome	Drosophila melanogaster	third instar larval brains	RNA-seq	human DNMT3L overexpression in elavC155-Gal4 larval brains versus elavC155-Gal4 controls
