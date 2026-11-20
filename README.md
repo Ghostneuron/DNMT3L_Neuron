@@ -8,6 +8,8 @@ Jie Lu, Independent researcher, San Francisco, California, USA.
 
 Version 1.1.0 adds the analyses for the revised results.
 
+Download the [version 1.1.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.20770052) for the processed inputs, full supporting tables, expected outputs and figures.
+
 - Human methylation concordance compares the observed sign agreement with a stratified expectation within the archived DNMT3L-sensitive CpG set.
 - The mouse segmental-trisomy comparison evaluates the 3,089 CpGs available in both comparison tracks.
 - Candidate scores use gene-level GSE268951 expression and are evaluated across alternative weights and evidence components.
