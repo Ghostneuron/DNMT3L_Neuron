@@ -1,0 +1,5 @@
+cohort	method	enumerated	label_assignments	draws	valid	tail	p_two_sided	or	null_low	null_median	null_high	leave_one_out_min	leave_one_out_max	blocks
+GSE74486	Freedman–Lane	False	NA	9999	9999	5390	0.5391	1.6319039	0.366473745	0.987017394	2.83790025	0.90032776	2.4596889	female:cerebrum 4/7 DS | male:cerebrum 4/7 DS
+GSE74486	Blocked diagnosis labels	True	1225	1225	1225	662	0.540408163	1.6319039	0.369115591	0.996317398	2.83648344	0.90032776	2.4596889	female:cerebrum 4/7 DS | male:cerebrum 4/7 DS
+GSE73747	Freedman–Lane	False	NA	9999	9999	2361	0.2362	1.6194804	0.479218435	1.06163027	2.03412277	1.4791398	1.9411235	female:frontal 3/16 DS | female:frontal+temporal 4/5 DS | male:frontal 5/10 DS | male:frontal+temporal 4/11 DS
+GSE73747	Blocked diagnosis labels	False	232848000	9999	9999	2324	0.2325	1.6194804	0.479680187	1.06886731	2.05066804	1.4791398	1.9411235	female:frontal 3/16 DS | female:frontal+temporal 4/5 DS | male:frontal 5/10 DS | male:frontal+temporal 4/11 DS

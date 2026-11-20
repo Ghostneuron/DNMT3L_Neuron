@@ -10,15 +10,17 @@ Version 1.2.0 contains the donor-level fetal methylation analysis, matched CpG b
 
 Download the [version 1.2.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.24406697) for the frozen signature, analysis code, native result tables and figures.
 
-| Fetal cohort | Direction-adjusted DNMT3L OR (95% CI) | DNMT3L-to-DNMT3A ratio of ORs (95% CI) |
-| --- | ---: | ---: |
-| GSE74486 fetal cerebrum | 1.63 (0.66–3.16) | 2.15 (0.81–3.91) |
-| GSE73747 fetal cortex | 1.62 (0.96–2.24) | 2.10 (1.16–2.88) |
-| GSE73747 deposited beta sensitivity | 1.93 (0.97–2.48) | 2.42 (1.16–3.24) |
+| Fetal cohort | Stratified DNMT3L OR (95% donor bootstrap CI) | Donor permutation P | Balanced DNMT3L and DNMT3A ORs | Paired ratio (95% donor bootstrap CI) |
+| --- | ---: | ---: | ---: | ---: |
+| GSE74486 fetal cerebrum | 1.63 (0.66–3.16) | 0.539 | 1.63 and 0.76 | 2.15 (0.81–3.91) |
+| GSE73747 fetal cortex | 1.62 (0.96–2.24) | 0.236 | 1.57 and 0.75 | 2.10 (1.16–2.88) |
+| GSE73747 deposited beta sensitivity | 1.93 (0.97–2.48) | — | 1.87 and 0.77 | 2.42 (1.16–3.24) |
 
-Both fetal cohorts exceeded all 2,000 matched CpG panels with the observed donors held fixed. The intervals above reflect resampling of DS and control donors. The DNMT3A reference differs from the DNMT3L model in lineage and perturbation.
+Both fetal cohorts exceeded all 2,000 matched CpG panels with the observed donors held fixed. Both primary ORs were inside their donor-permutation null ranges. The fibroblast comparator differs from the DNMT3L model in lineage and perturbation.
 
-See the [Brief Report reproducibility guide](docs/brief_report/README.md) and [full estimates](docs/brief_report/estimates.tsv) for public inputs, code, the frozen signature and figure-generation commands.
+The [dated post hoc sensitivity analyses](docs/brief_report/sensitivity/) include the revised Figure 2 source, donor permutation tests, and the external Spiers age-slope adjustment. The adjusted ORs were 1.85 (95% donor bootstrap CI 0.92–2.64, permutation P = 0.226) and 1.87 (1.09–2.53, P = 0.123) in GSE74486 and GSE73747, respectively.
+
+See the [Brief Report reproducibility guide](docs/brief_report/README.md) and [full estimates](docs/brief_report/estimates.tsv) for the frozen signature, inputs, and original commands.
 
 ## Archived R1 reproducibility materials
 

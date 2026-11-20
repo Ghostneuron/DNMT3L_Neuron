@@ -2,6 +2,8 @@
 
 This analysis tests whether the archived fetal neural DNMT3L overexpression signature aligns with the direction of DS methylation differences. The endpoint is the Mantel–Haenszel odds ratio (OR) for a positive fitted DS effect at DNMT3L hypermethylated CpGs compared with DNMT3L hypomethylated CpGs, conditional on probe strata. The bootstrap intervals propagate uncertainty from the DS donors, conditional on the fixed external signatures and CpG sets.
 
+The [dated post hoc sensitivity directory](sensitivity/) gives the donor permutation and Spiers reference analyses, crude ORs, and the source for the revised Figure 2. The commands below reproduce the archived v1.2.0 primary analysis and original figures.
+
 ## Inputs
 
 Save the public downloads below in a local data directory under the indicated names. Extract `DS Suppl Tables GB4.xlsx` from the Mendioroz supplement as `Mendioroz_2015_Tables.xlsx`.
@@ -37,7 +39,7 @@ The bundled tables combine the main and deposited-beta sensitivity outputs. Comp
 
 - GSE74486 uses normalized pre-ComBat beta values, with sex and gestational age in the per-CpG regression. The one reported age range, 12–13 weeks, is represented by its midpoint. The supplement and GEO sample metadata support the 8 DS and 6 control donor identities. Array batch was unavailable in the sample files used here. [Mendioroz et al.](https://doi.org/10.1186/s13059-015-0827-6)
 - GSE73747 uses `M / (M + U + 100)` and fits sex, gestational age and brain region. Within-region fits omit the region term. The 59 fetal arrays included 17 pairs with 100% genotype agreement across 64–65 jointly called array SNP probes. The next-highest agreement was 67.7%. The 17 pairs comprised 16 frontal–temporal matches and one same-region repeat. The analysis averages the repeat and resamples the 42 donor clusters within diagnosis and region pattern. The deposited beta-value analysis retains the same detection filter. [El Hajj et al.](https://doi.org/10.1080/15592294.2016.1192736)
-- The matched CpG panels preserve hyper and hypo counts within chromosome, CpG island context, design type and the label-blind cohort mean beta bin. The 2,000-panel upper tail describes the observed donors held fixed. The donor bootstrap is the basis for uncertainty across donors. There is no donor-label permutation p-value.
+- The matched CpG panels preserve hyper and hypo counts within chromosome, CpG island context, design type and the label-blind cohort mean beta bin. The 2,000-panel upper tail describes the observed donors held fixed. The primary package reports donor bootstrap intervals. Donor permutation results are available in the [sensitivity directory](sensitivity/).
 - The DNMT3A comparison uses autosomal sites shared by the three assays. The two W330R donors must agree in direction, with mean absolute beta change of at least 0.05 compared with the three healthy fibroblast donors. The comparison balances genomic strata, sign and perturbation magnitude. The ratio of ORs and interval are calculated within the same 2,500 donor draws. The fibroblast comparator differs in cell type and perturbation from the neural DNMT3L model. The estimates do not account for uncertainty in the external perturbation datasets. [Heyn et al.](https://doi.org/10.1038/s41588-018-0274-x)
 
 ## Results
@@ -48,7 +50,7 @@ The bundled tables combine the main and deposited-beta sensitivity outputs. Comp
 | GSE73747 fetal cortex, 16 DS and 26 controls | 1.62 (0.96–2.24) | 2.10 (1.16–2.88) |
 | GSE73747 deposited beta sensitivity | 1.93 (0.97–2.48) | 2.42 (1.16–3.24) |
 
-In GSE74486 and GSE73747, the observed DNMT3L OR exceeded all 2,000 random matched-CpG panels (Monte Carlo upper-tail probability 1/2,001 in each cohort, conditional on the sampled donors). The donor intervals for the DNMT3L OR both include 1. The matched DNMT3A ORs are approximately 0.76 and 0.75, respectively. The GSE73747 head-to-head comparison supports greater transfer than this fibroblast signature. The GSE74486 estimate is directionally similar, with a wide interval. These results support a limited comparison across the available signatures and leave neural-context specificity unresolved.
+In GSE74486 and GSE73747, the observed DNMT3L OR exceeded all 2,000 random matched-CpG panels (Monte Carlo upper-tail probability 1/2,001 in each cohort, conditional on the sampled donors). The donor bootstrap intervals for the primary DNMT3L OR include 1, and the corresponding donor permutation P values are 0.539 and 0.236. The balanced DNMT3L and DNMT3A ORs were 1.63 and 0.76 for GSE74486, 1.57 and 0.75 for GSE73747, and 1.87 and 0.77 for the deposited-beta sensitivity. These comparisons leave neural-context specificity unresolved.
 
 The full estimates table also provides frontal and temporal results, thresholds on the magnitude of the DS effect, and leave-one-donor-out ranges. The regional results share donors. The temporal regression was rank deficient in 7 of 2,500 bootstrap draws. The corresponding intervals use 2,493 valid draws. Differences in tissue dissection, gestational age and cell composition limit direct comparisons between the two cohorts.
 
