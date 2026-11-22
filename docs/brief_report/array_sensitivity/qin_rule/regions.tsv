@@ -1,0 +1,21 @@
+method	region	tested	calls	genes
+GEO	Body	21492	17	17
+GEO	3'UTR	11178	52	52
+GEO	Promoter	20698	25	25
+GEO	Published CGI bins	347	313	174
+GEO	Published bump intervals	41	1	1
+SWAN	Body	21492	16	16
+SWAN	3'UTR	11178	51	51
+SWAN	Promoter	20698	24	24
+SWAN	Published CGI bins	347	301	170
+SWAN	Published bump intervals	41	1	1
+ssNoob_SWAN	Body	21492	26	26
+ssNoob_SWAN	3'UTR	11178	50	50
+ssNoob_SWAN	Promoter	20698	29	29
+ssNoob_SWAN	Published CGI bins	347	191	116
+ssNoob_SWAN	Published bump intervals	41	0	0
+ssNoob_dye	Body	21492	22	22
+ssNoob_dye	3'UTR	11178	42	42
+ssNoob_dye	Promoter	20698	20	20
+ssNoob_dye	Published CGI bins	347	163	86
+ssNoob_dye	Published bump intervals	41	0	0

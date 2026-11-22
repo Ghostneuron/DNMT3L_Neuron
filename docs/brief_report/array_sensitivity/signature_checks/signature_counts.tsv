@@ -1,0 +1,5 @@
+signature	discovery_n	gain_n	loss_n
+effect_size	15602	13822	1780
+complete_separation	14013	12585	1428
+limma_nominal	15339	13652	1687
+limma_bh	2996	2753	243

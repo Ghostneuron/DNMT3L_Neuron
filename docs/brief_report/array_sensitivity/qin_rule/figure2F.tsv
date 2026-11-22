@@ -1,0 +1,10 @@
+set	genes
+TF	1639
+DS microarray	1250
+Strict RNA-seq	973
+Broad RNA-seq	7893
+Strict RNA-seq and TF	28
+Broad RNA-seq and TF	613
+Broad RNA-seq and DS	667
+TF and DS	85
+All three	46

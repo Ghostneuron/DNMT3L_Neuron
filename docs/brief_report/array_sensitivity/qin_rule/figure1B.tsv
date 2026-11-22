@@ -1,0 +1,528 @@
+universe	method	chr	gains	losses
+Published 347 (fixed)	GEO	chr1	23	8
+Published 347 (fixed)	GEO	chr10	11	7
+Published 347 (fixed)	GEO	chr11	9	8
+Published 347 (fixed)	GEO	chr12	7	5
+Published 347 (fixed)	GEO	chr13	3	1
+Published 347 (fixed)	GEO	chr14	11	3
+Published 347 (fixed)	GEO	chr15	4	4
+Published 347 (fixed)	GEO	chr16	6	5
+Published 347 (fixed)	GEO	chr17	5	5
+Published 347 (fixed)	GEO	chr18	3	2
+Published 347 (fixed)	GEO	chr19	10	3
+Published 347 (fixed)	GEO	chr2	31	8
+Published 347 (fixed)	GEO	chr20	5	2
+Published 347 (fixed)	GEO	chr21	1	5
+Published 347 (fixed)	GEO	chr22	2	1
+Published 347 (fixed)	GEO	chr3	10	6
+Published 347 (fixed)	GEO	chr4	19	9
+Published 347 (fixed)	GEO	chr5	13	8
+Published 347 (fixed)	GEO	chr6	23	10
+Published 347 (fixed)	GEO	chr7	9	6
+Published 347 (fixed)	GEO	chr8	14	5
+Published 347 (fixed)	GEO	chr9	12	4
+Published 347 (fixed)	SWAN	chr1	23	8
+Published 347 (fixed)	SWAN	chr10	11	7
+Published 347 (fixed)	SWAN	chr11	8	8
+Published 347 (fixed)	SWAN	chr12	6	5
+Published 347 (fixed)	SWAN	chr13	3	1
+Published 347 (fixed)	SWAN	chr14	11	3
+Published 347 (fixed)	SWAN	chr15	4	4
+Published 347 (fixed)	SWAN	chr16	6	5
+Published 347 (fixed)	SWAN	chr17	5	5
+Published 347 (fixed)	SWAN	chr18	3	2
+Published 347 (fixed)	SWAN	chr19	9	2
+Published 347 (fixed)	SWAN	chr2	29	8
+Published 347 (fixed)	SWAN	chr20	5	2
+Published 347 (fixed)	SWAN	chr21	1	5
+Published 347 (fixed)	SWAN	chr22	1	1
+Published 347 (fixed)	SWAN	chr3	10	6
+Published 347 (fixed)	SWAN	chr4	18	9
+Published 347 (fixed)	SWAN	chr5	11	8
+Published 347 (fixed)	SWAN	chr6	23	10
+Published 347 (fixed)	SWAN	chr7	9	6
+Published 347 (fixed)	SWAN	chr8	13	4
+Published 347 (fixed)	SWAN	chr9	11	4
+Published 347 (fixed)	Noob_background_SWAN	chr1	20	6
+Published 347 (fixed)	Noob_background_SWAN	chr10	9	5
+Published 347 (fixed)	Noob_background_SWAN	chr11	8	7
+Published 347 (fixed)	Noob_background_SWAN	chr12	7	4
+Published 347 (fixed)	Noob_background_SWAN	chr13	3	1
+Published 347 (fixed)	Noob_background_SWAN	chr14	11	2
+Published 347 (fixed)	Noob_background_SWAN	chr15	3	4
+Published 347 (fixed)	Noob_background_SWAN	chr16	6	5
+Published 347 (fixed)	Noob_background_SWAN	chr17	5	5
+Published 347 (fixed)	Noob_background_SWAN	chr18	3	1
+Published 347 (fixed)	Noob_background_SWAN	chr19	6	2
+Published 347 (fixed)	Noob_background_SWAN	chr2	28	7
+Published 347 (fixed)	Noob_background_SWAN	chr20	3	2
+Published 347 (fixed)	Noob_background_SWAN	chr21	1	5
+Published 347 (fixed)	Noob_background_SWAN	chr22	2	1
+Published 347 (fixed)	Noob_background_SWAN	chr3	9	6
+Published 347 (fixed)	Noob_background_SWAN	chr4	18	9
+Published 347 (fixed)	Noob_background_SWAN	chr5	11	8
+Published 347 (fixed)	Noob_background_SWAN	chr6	19	8
+Published 347 (fixed)	Noob_background_SWAN	chr7	8	5
+Published 347 (fixed)	Noob_background_SWAN	chr8	12	5
+Published 347 (fixed)	Noob_background_SWAN	chr9	10	3
+Published 347 (fixed)	ssNoob_SWAN	chr1	20	5
+Published 347 (fixed)	ssNoob_SWAN	chr10	10	5
+Published 347 (fixed)	ssNoob_SWAN	chr11	8	7
+Published 347 (fixed)	ssNoob_SWAN	chr12	6	5
+Published 347 (fixed)	ssNoob_SWAN	chr13	3	1
+Published 347 (fixed)	ssNoob_SWAN	chr14	11	2
+Published 347 (fixed)	ssNoob_SWAN	chr15	3	4
+Published 347 (fixed)	ssNoob_SWAN	chr16	6	5
+Published 347 (fixed)	ssNoob_SWAN	chr17	4	5
+Published 347 (fixed)	ssNoob_SWAN	chr18	2	1
+Published 347 (fixed)	ssNoob_SWAN	chr19	4	2
+Published 347 (fixed)	ssNoob_SWAN	chr2	26	7
+Published 347 (fixed)	ssNoob_SWAN	chr20	3	2
+Published 347 (fixed)	ssNoob_SWAN	chr21	1	5
+Published 347 (fixed)	ssNoob_SWAN	chr22	1	1
+Published 347 (fixed)	ssNoob_SWAN	chr3	9	6
+Published 347 (fixed)	ssNoob_SWAN	chr4	18	8
+Published 347 (fixed)	ssNoob_SWAN	chr5	8	8
+Published 347 (fixed)	ssNoob_SWAN	chr6	19	9
+Published 347 (fixed)	ssNoob_SWAN	chr7	8	5
+Published 347 (fixed)	ssNoob_SWAN	chr8	11	5
+Published 347 (fixed)	ssNoob_SWAN	chr9	7	3
+Published 347 (fixed)	ssNoob_dye	chr1	12	4
+Published 347 (fixed)	ssNoob_dye	chr10	7	5
+Published 347 (fixed)	ssNoob_dye	chr11	6	4
+Published 347 (fixed)	ssNoob_dye	chr12	4	3
+Published 347 (fixed)	ssNoob_dye	chr13	3	0
+Published 347 (fixed)	ssNoob_dye	chr14	8	2
+Published 347 (fixed)	ssNoob_dye	chr15	2	2
+Published 347 (fixed)	ssNoob_dye	chr16	5	4
+Published 347 (fixed)	ssNoob_dye	chr17	3	4
+Published 347 (fixed)	ssNoob_dye	chr18	1	1
+Published 347 (fixed)	ssNoob_dye	chr19	4	1
+Published 347 (fixed)	ssNoob_dye	chr2	15	5
+Published 347 (fixed)	ssNoob_dye	chr20	2	1
+Published 347 (fixed)	ssNoob_dye	chr21	1	5
+Published 347 (fixed)	ssNoob_dye	chr3	8	3
+Published 347 (fixed)	ssNoob_dye	chr4	13	7
+Published 347 (fixed)	ssNoob_dye	chr5	8	6
+Published 347 (fixed)	ssNoob_dye	chr6	18	5
+Published 347 (fixed)	ssNoob_dye	chr7	6	4
+Published 347 (fixed)	ssNoob_dye	chr8	7	3
+Published 347 (fixed)	ssNoob_dye	chr9	4	2
+Published 347 (fixed)	ssNoob_0	chr1	12	5
+Published 347 (fixed)	ssNoob_0	chr10	7	6
+Published 347 (fixed)	ssNoob_0	chr11	6	6
+Published 347 (fixed)	ssNoob_0	chr12	3	5
+Published 347 (fixed)	ssNoob_0	chr13	3	0
+Published 347 (fixed)	ssNoob_0	chr14	9	2
+Published 347 (fixed)	ssNoob_0	chr15	2	2
+Published 347 (fixed)	ssNoob_0	chr16	5	4
+Published 347 (fixed)	ssNoob_0	chr17	3	5
+Published 347 (fixed)	ssNoob_0	chr18	1	1
+Published 347 (fixed)	ssNoob_0	chr19	4	2
+Published 347 (fixed)	ssNoob_0	chr2	14	6
+Published 347 (fixed)	ssNoob_0	chr20	2	2
+Published 347 (fixed)	ssNoob_0	chr21	1	5
+Published 347 (fixed)	ssNoob_0	chr22	0	1
+Published 347 (fixed)	ssNoob_0	chr3	8	3
+Published 347 (fixed)	ssNoob_0	chr4	12	8
+Published 347 (fixed)	ssNoob_0	chr5	7	8
+Published 347 (fixed)	ssNoob_0	chr6	18	8
+Published 347 (fixed)	ssNoob_0	chr7	6	4
+Published 347 (fixed)	ssNoob_0	chr8	6	4
+Published 347 (fixed)	ssNoob_0	chr9	4	2
+Zhou filter	GEO	chr1	6	3
+Zhou filter	GEO	chr10	2	4
+Zhou filter	GEO	chr11	3	2
+Zhou filter	GEO	chr12	2	1
+Zhou filter	GEO	chr13	1	0
+Zhou filter	GEO	chr14	6	0
+Zhou filter	GEO	chr15	0	1
+Zhou filter	GEO	chr16	0	1
+Zhou filter	GEO	chr17	0	2
+Zhou filter	GEO	chr18	3	0
+Zhou filter	GEO	chr19	3	2
+Zhou filter	GEO	chr2	9	5
+Zhou filter	GEO	chr20	1	0
+Zhou filter	GEO	chr21	0	2
+Zhou filter	GEO	chr22	2	1
+Zhou filter	GEO	chr3	4	1
+Zhou filter	GEO	chr4	5	2
+Zhou filter	GEO	chr5	5	4
+Zhou filter	GEO	chr6	9	6
+Zhou filter	GEO	chr7	3	1
+Zhou filter	GEO	chr8	3	3
+Zhou filter	GEO	chr9	3	3
+Zhou filter	SWAN	chr1	7	3
+Zhou filter	SWAN	chr10	2	4
+Zhou filter	SWAN	chr11	3	2
+Zhou filter	SWAN	chr12	1	1
+Zhou filter	SWAN	chr13	1	0
+Zhou filter	SWAN	chr14	6	1
+Zhou filter	SWAN	chr15	0	2
+Zhou filter	SWAN	chr16	0	1
+Zhou filter	SWAN	chr17	0	2
+Zhou filter	SWAN	chr18	3	0
+Zhou filter	SWAN	chr19	4	2
+Zhou filter	SWAN	chr2	9	5
+Zhou filter	SWAN	chr20	1	0
+Zhou filter	SWAN	chr21	0	2
+Zhou filter	SWAN	chr22	1	1
+Zhou filter	SWAN	chr3	4	1
+Zhou filter	SWAN	chr4	6	3
+Zhou filter	SWAN	chr5	4	4
+Zhou filter	SWAN	chr6	9	6
+Zhou filter	SWAN	chr7	3	1
+Zhou filter	SWAN	chr8	3	2
+Zhou filter	SWAN	chr9	3	3
+Zhou filter	Noob_background_SWAN	chr1	16	11
+Zhou filter	Noob_background_SWAN	chr10	14	7
+Zhou filter	Noob_background_SWAN	chr11	18	7
+Zhou filter	Noob_background_SWAN	chr12	9	5
+Zhou filter	Noob_background_SWAN	chr13	3	3
+Zhou filter	Noob_background_SWAN	chr14	8	4
+Zhou filter	Noob_background_SWAN	chr15	2	5
+Zhou filter	Noob_background_SWAN	chr16	4	4
+Zhou filter	Noob_background_SWAN	chr17	5	7
+Zhou filter	Noob_background_SWAN	chr18	5	1
+Zhou filter	Noob_background_SWAN	chr19	5	4
+Zhou filter	Noob_background_SWAN	chr2	25	12
+Zhou filter	Noob_background_SWAN	chr20	2	4
+Zhou filter	Noob_background_SWAN	chr21	1	3
+Zhou filter	Noob_background_SWAN	chr22	3	3
+Zhou filter	Noob_background_SWAN	chr3	14	3
+Zhou filter	Noob_background_SWAN	chr4	18	11
+Zhou filter	Noob_background_SWAN	chr5	15	7
+Zhou filter	Noob_background_SWAN	chr6	31	7
+Zhou filter	Noob_background_SWAN	chr7	9	1
+Zhou filter	Noob_background_SWAN	chr8	14	7
+Zhou filter	Noob_background_SWAN	chr9	5	5
+Zhou filter	ssNoob_SWAN	chr1	6	14
+Zhou filter	ssNoob_SWAN	chr10	5	8
+Zhou filter	ssNoob_SWAN	chr11	11	8
+Zhou filter	ssNoob_SWAN	chr12	5	11
+Zhou filter	ssNoob_SWAN	chr13	2	3
+Zhou filter	ssNoob_SWAN	chr14	6	6
+Zhou filter	ssNoob_SWAN	chr15	1	7
+Zhou filter	ssNoob_SWAN	chr16	1	3
+Zhou filter	ssNoob_SWAN	chr17	2	10
+Zhou filter	ssNoob_SWAN	chr18	3	1
+Zhou filter	ssNoob_SWAN	chr19	1	5
+Zhou filter	ssNoob_SWAN	chr2	15	16
+Zhou filter	ssNoob_SWAN	chr20	0	5
+Zhou filter	ssNoob_SWAN	chr21	0	3
+Zhou filter	ssNoob_SWAN	chr22	1	3
+Zhou filter	ssNoob_SWAN	chr3	4	5
+Zhou filter	ssNoob_SWAN	chr4	12	11
+Zhou filter	ssNoob_SWAN	chr5	6	8
+Zhou filter	ssNoob_SWAN	chr6	18	9
+Zhou filter	ssNoob_SWAN	chr7	4	4
+Zhou filter	ssNoob_SWAN	chr8	8	10
+Zhou filter	ssNoob_SWAN	chr9	3	6
+Zhou filter	ssNoob_dye	chr1	9	4
+Zhou filter	ssNoob_dye	chr10	3	3
+Zhou filter	ssNoob_dye	chr11	7	3
+Zhou filter	ssNoob_dye	chr12	4	1
+Zhou filter	ssNoob_dye	chr13	4	1
+Zhou filter	ssNoob_dye	chr14	8	1
+Zhou filter	ssNoob_dye	chr15	2	2
+Zhou filter	ssNoob_dye	chr16	1	4
+Zhou filter	ssNoob_dye	chr17	2	6
+Zhou filter	ssNoob_dye	chr18	4	0
+Zhou filter	ssNoob_dye	chr19	1	4
+Zhou filter	ssNoob_dye	chr2	8	7
+Zhou filter	ssNoob_dye	chr20	0	1
+Zhou filter	ssNoob_dye	chr21	0	2
+Zhou filter	ssNoob_dye	chr22	0	1
+Zhou filter	ssNoob_dye	chr3	4	2
+Zhou filter	ssNoob_dye	chr4	11	3
+Zhou filter	ssNoob_dye	chr5	9	4
+Zhou filter	ssNoob_dye	chr6	23	7
+Zhou filter	ssNoob_dye	chr7	4	0
+Zhou filter	ssNoob_dye	chr8	4	4
+Zhou filter	ssNoob_dye	chr9	2	3
+Zhou filter	ssNoob_0	chr1	8	7
+Zhou filter	ssNoob_0	chr10	4	5
+Zhou filter	ssNoob_0	chr11	7	7
+Zhou filter	ssNoob_0	chr12	3	4
+Zhou filter	ssNoob_0	chr13	4	2
+Zhou filter	ssNoob_0	chr14	8	3
+Zhou filter	ssNoob_0	chr15	2	3
+Zhou filter	ssNoob_0	chr16	1	5
+Zhou filter	ssNoob_0	chr17	2	8
+Zhou filter	ssNoob_0	chr18	4	0
+Zhou filter	ssNoob_0	chr19	1	5
+Zhou filter	ssNoob_0	chr2	9	8
+Zhou filter	ssNoob_0	chr20	0	2
+Zhou filter	ssNoob_0	chr21	0	3
+Zhou filter	ssNoob_0	chr22	0	2
+Zhou filter	ssNoob_0	chr3	4	2
+Zhou filter	ssNoob_0	chr4	9	4
+Zhou filter	ssNoob_0	chr5	8	7
+Zhou filter	ssNoob_0	chr6	15	10
+Zhou filter	ssNoob_0	chr7	3	0
+Zhou filter	ssNoob_0	chr8	7	6
+Zhou filter	ssNoob_0	chr9	2	3
+Detection only	GEO	chr1	37	17
+Detection only	GEO	chr10	19	11
+Detection only	GEO	chr11	18	12
+Detection only	GEO	chr12	13	8
+Detection only	GEO	chr13	10	3
+Detection only	GEO	chr14	17	5
+Detection only	GEO	chr15	8	6
+Detection only	GEO	chr16	9	6
+Detection only	GEO	chr17	13	7
+Detection only	GEO	chr18	6	3
+Detection only	GEO	chr19	9	8
+Detection only	GEO	chr2	39	13
+Detection only	GEO	chr20	7	4
+Detection only	GEO	chr21	1	5
+Detection only	GEO	chr22	3	5
+Detection only	GEO	chr3	20	8
+Detection only	GEO	chr4	26	11
+Detection only	GEO	chr5	23	12
+Detection only	GEO	chr6	50	22
+Detection only	GEO	chr7	17	10
+Detection only	GEO	chr8	22	12
+Detection only	GEO	chr9	13	4
+Detection only	SWAN	chr1	40	17
+Detection only	SWAN	chr10	19	11
+Detection only	SWAN	chr11	17	12
+Detection only	SWAN	chr12	12	7
+Detection only	SWAN	chr13	10	3
+Detection only	SWAN	chr14	16	6
+Detection only	SWAN	chr15	8	7
+Detection only	SWAN	chr16	9	6
+Detection only	SWAN	chr17	13	7
+Detection only	SWAN	chr18	6	2
+Detection only	SWAN	chr19	10	8
+Detection only	SWAN	chr2	38	14
+Detection only	SWAN	chr20	8	4
+Detection only	SWAN	chr21	1	5
+Detection only	SWAN	chr22	2	5
+Detection only	SWAN	chr3	20	7
+Detection only	SWAN	chr4	28	12
+Detection only	SWAN	chr5	21	11
+Detection only	SWAN	chr6	49	22
+Detection only	SWAN	chr7	17	10
+Detection only	SWAN	chr8	22	11
+Detection only	SWAN	chr9	12	4
+Detection only	Noob_background_SWAN	chr1	68	31
+Detection only	Noob_background_SWAN	chr10	37	18
+Detection only	Noob_background_SWAN	chr11	53	18
+Detection only	Noob_background_SWAN	chr12	34	22
+Detection only	Noob_background_SWAN	chr13	15	11
+Detection only	Noob_background_SWAN	chr14	24	10
+Detection only	Noob_background_SWAN	chr15	12	15
+Detection only	Noob_background_SWAN	chr16	19	12
+Detection only	Noob_background_SWAN	chr17	25	18
+Detection only	Noob_background_SWAN	chr18	13	4
+Detection only	Noob_background_SWAN	chr19	18	13
+Detection only	Noob_background_SWAN	chr2	69	24
+Detection only	Noob_background_SWAN	chr20	10	11
+Detection only	Noob_background_SWAN	chr21	4	8
+Detection only	Noob_background_SWAN	chr22	9	9
+Detection only	Noob_background_SWAN	chr3	36	12
+Detection only	Noob_background_SWAN	chr4	47	23
+Detection only	Noob_background_SWAN	chr5	38	18
+Detection only	Noob_background_SWAN	chr6	94	27
+Detection only	Noob_background_SWAN	chr7	36	13
+Detection only	Noob_background_SWAN	chr8	43	18
+Detection only	Noob_background_SWAN	chr9	21	7
+Detection only	ssNoob_SWAN	chr1	47	33
+Detection only	ssNoob_SWAN	chr10	26	18
+Detection only	ssNoob_SWAN	chr11	37	19
+Detection only	ssNoob_SWAN	chr12	19	27
+Detection only	ssNoob_SWAN	chr13	10	11
+Detection only	ssNoob_SWAN	chr14	21	14
+Detection only	ssNoob_SWAN	chr15	9	16
+Detection only	ssNoob_SWAN	chr16	13	12
+Detection only	ssNoob_SWAN	chr17	18	20
+Detection only	ssNoob_SWAN	chr18	9	4
+Detection only	ssNoob_SWAN	chr19	10	14
+Detection only	ssNoob_SWAN	chr2	49	30
+Detection only	ssNoob_SWAN	chr20	7	11
+Detection only	ssNoob_SWAN	chr21	1	7
+Detection only	ssNoob_SWAN	chr22	6	10
+Detection only	ssNoob_SWAN	chr3	25	15
+Detection only	ssNoob_SWAN	chr4	35	25
+Detection only	ssNoob_SWAN	chr5	21	22
+Detection only	ssNoob_SWAN	chr6	71	32
+Detection only	ssNoob_SWAN	chr7	24	15
+Detection only	ssNoob_SWAN	chr8	31	21
+Detection only	ssNoob_SWAN	chr9	13	7
+Detection only	ssNoob_dye	chr1	36	17
+Detection only	ssNoob_dye	chr10	22	12
+Detection only	ssNoob_dye	chr11	33	9
+Detection only	ssNoob_dye	chr12	16	10
+Detection only	ssNoob_dye	chr13	13	4
+Detection only	ssNoob_dye	chr14	16	7
+Detection only	ssNoob_dye	chr15	10	7
+Detection only	ssNoob_dye	chr16	12	10
+Detection only	ssNoob_dye	chr17	15	13
+Detection only	ssNoob_dye	chr18	9	1
+Detection only	ssNoob_dye	chr19	11	10
+Detection only	ssNoob_dye	chr2	37	18
+Detection only	ssNoob_dye	chr20	7	4
+Detection only	ssNoob_dye	chr21	1	5
+Detection only	ssNoob_dye	chr22	5	5
+Detection only	ssNoob_dye	chr3	26	6
+Detection only	ssNoob_dye	chr4	29	15
+Detection only	ssNoob_dye	chr5	23	12
+Detection only	ssNoob_dye	chr6	69	23
+Detection only	ssNoob_dye	chr7	24	9
+Detection only	ssNoob_dye	chr8	23	14
+Detection only	ssNoob_dye	chr9	8	4
+Detection only	ssNoob_0	chr1	28	25
+Detection only	ssNoob_0	chr10	21	13
+Detection only	ssNoob_0	chr11	29	16
+Detection only	ssNoob_0	chr12	13	16
+Detection only	ssNoob_0	chr13	12	6
+Detection only	ssNoob_0	chr14	17	9
+Detection only	ssNoob_0	chr15	8	9
+Detection only	ssNoob_0	chr16	10	12
+Detection only	ssNoob_0	chr17	15	16
+Detection only	ssNoob_0	chr18	8	2
+Detection only	ssNoob_0	chr19	7	13
+Detection only	ssNoob_0	chr2	34	21
+Detection only	ssNoob_0	chr20	7	6
+Detection only	ssNoob_0	chr21	1	6
+Detection only	ssNoob_0	chr22	3	8
+Detection only	ssNoob_0	chr3	22	8
+Detection only	ssNoob_0	chr4	26	16
+Detection only	ssNoob_0	chr5	21	16
+Detection only	ssNoob_0	chr6	53	27
+Detection only	ssNoob_0	chr7	14	10
+Detection only	ssNoob_0	chr8	26	19
+Detection only	ssNoob_0	chr9	7	4
+Full autosomal joint support	GEO	chr1	40	17
+Full autosomal joint support	GEO	chr10	20	11
+Full autosomal joint support	GEO	chr11	18	12
+Full autosomal joint support	GEO	chr12	13	8
+Full autosomal joint support	GEO	chr13	10	3
+Full autosomal joint support	GEO	chr14	17	5
+Full autosomal joint support	GEO	chr15	8	6
+Full autosomal joint support	GEO	chr16	9	6
+Full autosomal joint support	GEO	chr17	13	7
+Full autosomal joint support	GEO	chr18	6	3
+Full autosomal joint support	GEO	chr19	11	8
+Full autosomal joint support	GEO	chr2	41	13
+Full autosomal joint support	GEO	chr20	7	4
+Full autosomal joint support	GEO	chr21	1	5
+Full autosomal joint support	GEO	chr22	3	5
+Full autosomal joint support	GEO	chr3	20	8
+Full autosomal joint support	GEO	chr4	27	11
+Full autosomal joint support	GEO	chr5	23	12
+Full autosomal joint support	GEO	chr6	53	23
+Full autosomal joint support	GEO	chr7	17	10
+Full autosomal joint support	GEO	chr8	23	12
+Full autosomal joint support	GEO	chr9	14	4
+Full autosomal joint support	SWAN	chr1	43	17
+Full autosomal joint support	SWAN	chr10	20	12
+Full autosomal joint support	SWAN	chr11	17	12
+Full autosomal joint support	SWAN	chr12	12	7
+Full autosomal joint support	SWAN	chr13	10	3
+Full autosomal joint support	SWAN	chr14	16	6
+Full autosomal joint support	SWAN	chr15	8	7
+Full autosomal joint support	SWAN	chr16	9	6
+Full autosomal joint support	SWAN	chr17	13	7
+Full autosomal joint support	SWAN	chr18	6	2
+Full autosomal joint support	SWAN	chr19	11	8
+Full autosomal joint support	SWAN	chr2	39	14
+Full autosomal joint support	SWAN	chr20	8	4
+Full autosomal joint support	SWAN	chr21	1	5
+Full autosomal joint support	SWAN	chr22	2	5
+Full autosomal joint support	SWAN	chr3	20	7
+Full autosomal joint support	SWAN	chr4	28	12
+Full autosomal joint support	SWAN	chr5	21	11
+Full autosomal joint support	SWAN	chr6	52	23
+Full autosomal joint support	SWAN	chr7	17	10
+Full autosomal joint support	SWAN	chr8	23	11
+Full autosomal joint support	SWAN	chr9	13	4
+Full autosomal joint support	Noob_background_SWAN	chr1	69	31
+Full autosomal joint support	Noob_background_SWAN	chr10	37	18
+Full autosomal joint support	Noob_background_SWAN	chr11	53	18
+Full autosomal joint support	Noob_background_SWAN	chr12	34	22
+Full autosomal joint support	Noob_background_SWAN	chr13	15	11
+Full autosomal joint support	Noob_background_SWAN	chr14	24	10
+Full autosomal joint support	Noob_background_SWAN	chr15	12	15
+Full autosomal joint support	Noob_background_SWAN	chr16	21	12
+Full autosomal joint support	Noob_background_SWAN	chr17	25	18
+Full autosomal joint support	Noob_background_SWAN	chr18	13	4
+Full autosomal joint support	Noob_background_SWAN	chr19	18	13
+Full autosomal joint support	Noob_background_SWAN	chr2	69	24
+Full autosomal joint support	Noob_background_SWAN	chr20	10	11
+Full autosomal joint support	Noob_background_SWAN	chr21	4	8
+Full autosomal joint support	Noob_background_SWAN	chr22	9	9
+Full autosomal joint support	Noob_background_SWAN	chr3	36	12
+Full autosomal joint support	Noob_background_SWAN	chr4	47	23
+Full autosomal joint support	Noob_background_SWAN	chr5	38	18
+Full autosomal joint support	Noob_background_SWAN	chr6	94	27
+Full autosomal joint support	Noob_background_SWAN	chr7	36	13
+Full autosomal joint support	Noob_background_SWAN	chr8	43	18
+Full autosomal joint support	Noob_background_SWAN	chr9	21	7
+Full autosomal joint support	ssNoob_SWAN	chr1	48	33
+Full autosomal joint support	ssNoob_SWAN	chr10	26	18
+Full autosomal joint support	ssNoob_SWAN	chr11	37	19
+Full autosomal joint support	ssNoob_SWAN	chr12	19	27
+Full autosomal joint support	ssNoob_SWAN	chr13	10	11
+Full autosomal joint support	ssNoob_SWAN	chr14	21	14
+Full autosomal joint support	ssNoob_SWAN	chr15	9	16
+Full autosomal joint support	ssNoob_SWAN	chr16	14	12
+Full autosomal joint support	ssNoob_SWAN	chr17	18	20
+Full autosomal joint support	ssNoob_SWAN	chr18	9	4
+Full autosomal joint support	ssNoob_SWAN	chr19	10	14
+Full autosomal joint support	ssNoob_SWAN	chr2	49	30
+Full autosomal joint support	ssNoob_SWAN	chr20	7	11
+Full autosomal joint support	ssNoob_SWAN	chr21	1	7
+Full autosomal joint support	ssNoob_SWAN	chr22	6	10
+Full autosomal joint support	ssNoob_SWAN	chr3	25	15
+Full autosomal joint support	ssNoob_SWAN	chr4	35	25
+Full autosomal joint support	ssNoob_SWAN	chr5	21	22
+Full autosomal joint support	ssNoob_SWAN	chr6	71	32
+Full autosomal joint support	ssNoob_SWAN	chr7	24	15
+Full autosomal joint support	ssNoob_SWAN	chr8	31	21
+Full autosomal joint support	ssNoob_SWAN	chr9	13	7
+Full autosomal joint support	ssNoob_dye	chr1	37	17
+Full autosomal joint support	ssNoob_dye	chr10	22	12
+Full autosomal joint support	ssNoob_dye	chr11	33	9
+Full autosomal joint support	ssNoob_dye	chr12	16	10
+Full autosomal joint support	ssNoob_dye	chr13	13	4
+Full autosomal joint support	ssNoob_dye	chr14	16	7
+Full autosomal joint support	ssNoob_dye	chr15	10	7
+Full autosomal joint support	ssNoob_dye	chr16	14	10
+Full autosomal joint support	ssNoob_dye	chr17	15	13
+Full autosomal joint support	ssNoob_dye	chr18	9	1
+Full autosomal joint support	ssNoob_dye	chr19	11	10
+Full autosomal joint support	ssNoob_dye	chr2	37	18
+Full autosomal joint support	ssNoob_dye	chr20	7	4
+Full autosomal joint support	ssNoob_dye	chr21	1	5
+Full autosomal joint support	ssNoob_dye	chr22	5	5
+Full autosomal joint support	ssNoob_dye	chr3	26	6
+Full autosomal joint support	ssNoob_dye	chr4	29	15
+Full autosomal joint support	ssNoob_dye	chr5	23	12
+Full autosomal joint support	ssNoob_dye	chr6	69	23
+Full autosomal joint support	ssNoob_dye	chr7	24	9
+Full autosomal joint support	ssNoob_dye	chr8	23	14
+Full autosomal joint support	ssNoob_dye	chr9	8	4
+Full autosomal joint support	ssNoob_0	chr1	29	25
+Full autosomal joint support	ssNoob_0	chr10	21	13
+Full autosomal joint support	ssNoob_0	chr11	29	16
+Full autosomal joint support	ssNoob_0	chr12	13	16
+Full autosomal joint support	ssNoob_0	chr13	12	6
+Full autosomal joint support	ssNoob_0	chr14	17	9
+Full autosomal joint support	ssNoob_0	chr15	8	9
+Full autosomal joint support	ssNoob_0	chr16	11	12
+Full autosomal joint support	ssNoob_0	chr17	15	16
+Full autosomal joint support	ssNoob_0	chr18	8	2
+Full autosomal joint support	ssNoob_0	chr19	7	13
+Full autosomal joint support	ssNoob_0	chr2	34	21
+Full autosomal joint support	ssNoob_0	chr20	7	6
+Full autosomal joint support	ssNoob_0	chr21	1	6
+Full autosomal joint support	ssNoob_0	chr22	3	8
+Full autosomal joint support	ssNoob_0	chr3	22	8
+Full autosomal joint support	ssNoob_0	chr4	26	16
+Full autosomal joint support	ssNoob_0	chr5	21	16
+Full autosomal joint support	ssNoob_0	chr6	53	27
+Full autosomal joint support	ssNoob_0	chr7	14	10
+Full autosomal joint support	ssNoob_0	chr8	26	19
+Full autosomal joint support	ssNoob_0	chr9	7	4

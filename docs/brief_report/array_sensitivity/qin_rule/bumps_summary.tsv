@@ -1,0 +1,4 @@
+workflow	total	calls	gains	losses	fwer_05	coordinates_shared	difference_within_1e_6
+GEO	6589	4	3	1	0	6429	6425
+ssNoob + SWAN	6864	10	4	6	0	3947	2
+ssNoob alone	5263	8	5	3	0	3067	0

@@ -1,0 +1,145 @@
+region	universe	match	method	scope	N	r	P
+Body	All mapped	Gene and region paired	GEO	Published range fixed	176	0.24028612052070822	0.0013170614354428354
+Body	All mapped	Gene and region paired	GEO	Full	223	-0.04513388033478646	0.5025094037842963
+Body	All mapped	Gene and region paired	GEO	Reapply ranges	177	0.1528646188586782	0.04222698931494133
+Body	All mapped	Gene and region paired	SWAN	Published range fixed	176	0.24048112664939875	0.0013047992006923182
+Body	All mapped	Gene and region paired	SWAN	Full	223	-0.04708979794110063	0.4841540462031617
+Body	All mapped	Gene and region paired	SWAN	Reapply ranges	177	0.16440819455590563	0.02876346321697598
+Body	All mapped	Gene and region paired	ssNoob_SWAN	Published range fixed	176	0.22260089126276678	0.0029834252872401835
+Body	All mapped	Gene and region paired	ssNoob_SWAN	Full	223	-0.06098442480807002	0.36471482347913114
+Body	All mapped	Gene and region paired	ssNoob_SWAN	Reapply ranges	193	0.13723382658353198	0.05702194440342085
+Body	All mapped	Gene and region paired	ssNoob_dye	Published range fixed	176	0.22955641315242803	0.0021785715846535567
+Body	All mapped	Gene and region paired	ssNoob_dye	Full	223	-0.07308409785700544	0.2771699496528504
+Body	All mapped	Gene and region paired	ssNoob_dye	Reapply ranges	193	0.14873009881662222	0.03898950290731944
+Body	All mapped	Any region at matching gene	GEO	Published range fixed	177	0.12866143486291476	0.08787746334175889
+Body	All mapped	Any region at matching gene	GEO	Full	225	-0.07080479103401714	0.2902906917373894
+Body	All mapped	Any region at matching gene	GEO	Reapply ranges	178	0.11683310621804036	0.12040165526561117
+Body	All mapped	Any region at matching gene	SWAN	Published range fixed	177	0.12669267124671832	0.09288496764430039
+Body	All mapped	Any region at matching gene	SWAN	Full	225	-0.07308763579210428	0.27497863393807553
+Body	All mapped	Any region at matching gene	SWAN	Reapply ranges	178	0.12769668198794756	0.08938618465457242
+Body	All mapped	Any region at matching gene	ssNoob_SWAN	Published range fixed	177	0.1365454938945258	0.06994817518088725
+Body	All mapped	Any region at matching gene	ssNoob_SWAN	Full	225	-0.08075128261479501	0.2276270718258978
+Body	All mapped	Any region at matching gene	ssNoob_SWAN	Reapply ranges	195	0.1062117425238552	0.13945757157028305
+Body	All mapped	Any region at matching gene	ssNoob_dye	Published range fixed	177	0.13150261376339367	0.0810340508414413
+Body	All mapped	Any region at matching gene	ssNoob_dye	Full	225	-0.09473634113419442	0.1566825491729805
+Body	All mapped	Any region at matching gene	ssNoob_dye	Reapply ranges	193	0.1161573720020737	0.10768695128591797
+Body	Detection	Gene and region paired	GEO	Published range fixed	176	0.2369435472509694	0.0015443158462354408
+Body	Detection	Gene and region paired	GEO	Full	223	-0.04726307272708804	0.4825455406905929
+Body	Detection	Gene and region paired	GEO	Reapply ranges	177	0.14880766143464716	0.04806988665200683
+Body	Detection	Gene and region paired	SWAN	Published range fixed	176	0.2370797423242254	0.0015343975137836292
+Body	Detection	Gene and region paired	SWAN	Full	223	-0.0490936667532486	0.46572968589378133
+Body	Detection	Gene and region paired	SWAN	Reapply ranges	177	0.1601944717973457	0.033177938054879515
+Body	Detection	Gene and region paired	ssNoob_SWAN	Published range fixed	176	0.22175328369805206	0.0030979984059748733
+Body	Detection	Gene and region paired	ssNoob_SWAN	Full	223	-0.06121820406456283	0.362875842444308
+Body	Detection	Gene and region paired	ssNoob_SWAN	Reapply ranges	193	0.1364158904200216	0.058532037228567986
+Body	Detection	Gene and region paired	ssNoob_dye	Published range fixed	176	0.22863486118227536	0.002272445632666466
+Body	Detection	Gene and region paired	ssNoob_dye	Full	223	-0.07335683133835776	0.2753762793515045
+Body	Detection	Gene and region paired	ssNoob_dye	Reapply ranges	193	0.14785467082418557	0.04016855294714644
+Body	Detection	Any region at matching gene	GEO	Published range fixed	177	0.12452550240830011	0.09865690335060825
+Body	Detection	Any region at matching gene	GEO	Full	225	-0.07309181784981636	0.27495109525867156
+Body	Detection	Any region at matching gene	GEO	Reapply ranges	178	0.11270499603870471	0.1341709291180918
+Body	Detection	Any region at matching gene	SWAN	Published range fixed	177	0.12248738260971927	0.10434074143756814
+Body	Detection	Any region at matching gene	SWAN	Full	225	-0.07523601023261456	0.26107751735637924
+Body	Detection	Any region at matching gene	SWAN	Reapply ranges	178	0.12339719626352515	0.1007968145461188
+Body	Detection	Any region at matching gene	ssNoob_SWAN	Published range fixed	177	0.13566416155674235	0.07179130752877305
+Body	Detection	Any region at matching gene	ssNoob_SWAN	Full	225	-0.08098913576895891	0.22625608684896611
+Body	Detection	Any region at matching gene	ssNoob_SWAN	Reapply ranges	195	0.10542184080089313	0.14244094176007943
+Body	Detection	Any region at matching gene	ssNoob_dye	Published range fixed	177	0.13053657463637236	0.08331108236333949
+Body	Detection	Any region at matching gene	ssNoob_dye	Full	225	-0.09501228872003901	0.15547329847295088
+Body	Detection	Any region at matching gene	ssNoob_dye	Reapply ranges	193	0.11528409343266308	0.1103768911602127
+Body	Zhou	Gene and region paired	GEO	Published range fixed	173	0.2248387564458907	0.0029391884610678503
+Body	Zhou	Gene and region paired	GEO	Full	219	-0.07825519066297067	0.24882296387379224
+Body	Zhou	Gene and region paired	GEO	Reapply ranges	178	0.11547292126569021	0.12481184157727011
+Body	Zhou	Gene and region paired	SWAN	Published range fixed	173	0.22309682380000986	0.0031737807130944604
+Body	Zhou	Gene and region paired	SWAN	Full	219	-0.08001790328293604	0.23828985997297705
+Body	Zhou	Gene and region paired	SWAN	Reapply ranges	178	0.11674763040032864	0.12067518685951056
+Body	Zhou	Gene and region paired	ssNoob_SWAN	Published range fixed	173	0.1978013200444309	0.009090411964799044
+Body	Zhou	Gene and region paired	ssNoob_SWAN	Full	219	-0.08700953121162175	0.19960117535741714
+Body	Zhou	Gene and region paired	ssNoob_SWAN	Reapply ranges	193	0.09430465066584232	0.1920561265151545
+Body	Zhou	Gene and region paired	ssNoob_dye	Published range fixed	173	0.20873098910101787	0.005852230692487695
+Body	Zhou	Gene and region paired	ssNoob_dye	Full	219	-0.09567380050760169	0.15825078024319453
+Body	Zhou	Gene and region paired	ssNoob_dye	Reapply ranges	194	0.0984248183673049	0.17214081128196515
+Body	Zhou	Any region at matching gene	GEO	Published range fixed	174	0.10863066587968748	0.15362757386207052
+Body	Zhou	Any region at matching gene	GEO	Full	221	-0.10522546833921732	0.11881865115891094
+Body	Zhou	Any region at matching gene	GEO	Reapply ranges	178	0.07888156055538133	0.29527091136109546
+Body	Zhou	Any region at matching gene	SWAN	Published range fixed	174	0.10495706248878946	0.16810769362745284
+Body	Zhou	Any region at matching gene	SWAN	Full	221	-0.10724274662131698	0.1118741695527189
+Body	Zhou	Any region at matching gene	SWAN	Reapply ranges	178	0.07895967904709582	0.2947914390999571
+Body	Zhou	Any region at matching gene	ssNoob_SWAN	Published range fixed	174	0.10517695306114952	0.1672133467302846
+Body	Zhou	Any region at matching gene	ssNoob_SWAN	Full	221	-0.10802253968040826	0.10927654347749179
+Body	Zhou	Any region at matching gene	ssNoob_SWAN	Reapply ranges	193	0.06411147833014975	0.37573016510421003
+Body	Zhou	Any region at matching gene	ssNoob_dye	Published range fixed	174	0.10467690392754887	0.16925231566495094
+Body	Zhou	Any region at matching gene	ssNoob_dye	Full	221	-0.11831497643120178	0.07924667678331422
+Body	Zhou	Any region at matching gene	ssNoob_dye	Reapply ranges	193	0.061481113550093204	0.3956707918641103
+Promoter	All mapped	Gene and region paired	GEO	Published range fixed	167	0.014061731721849708	0.8568686452110713
+Promoter	All mapped	Gene and region paired	GEO	Full	219	0.009291599110474592	0.8912527869287631
+Promoter	All mapped	Gene and region paired	GEO	Reapply ranges	170	0.0585851763252978	0.4479281326036448
+Promoter	All mapped	Gene and region paired	SWAN	Published range fixed	167	0.014787027124747356	0.8495711756156548
+Promoter	All mapped	Gene and region paired	SWAN	Full	219	0.009179159226809444	0.8925607869510633
+Promoter	All mapped	Gene and region paired	SWAN	Reapply ranges	170	0.06003659267686489	0.4367412076435146
+Promoter	All mapped	Gene and region paired	ssNoob_SWAN	Published range fixed	167	0.049616957837997994	0.5242754398097152
+Promoter	All mapped	Gene and region paired	ssNoob_SWAN	Full	219	0.012434512325883426	0.8548231466672553
+Promoter	All mapped	Gene and region paired	ssNoob_SWAN	Reapply ranges	186	-0.051503093900270545	0.48509156861480096
+Promoter	All mapped	Gene and region paired	ssNoob_dye	Published range fixed	167	0.05197625696093547	0.5047162963639642
+Promoter	All mapped	Gene and region paired	ssNoob_dye	Full	219	-0.0011158464649720032	0.9869005018934832
+Promoter	All mapped	Gene and region paired	ssNoob_dye	Reapply ranges	184	-0.012269688027126243	0.8687030179538163
+Promoter	All mapped	Any region at matching gene	GEO	Published range fixed	167	0.07651842697364818	0.3256809004342627
+Promoter	All mapped	Any region at matching gene	GEO	Full	221	0.010125207104920746	0.8810231884907798
+Promoter	All mapped	Any region at matching gene	GEO	Reapply ranges	166	0.07832703388111699	0.3158176217960816
+Promoter	All mapped	Any region at matching gene	SWAN	Published range fixed	167	0.07694177775346275	0.3230034581144217
+Promoter	All mapped	Any region at matching gene	SWAN	Full	221	0.01017520268048681	0.880440088614508
+Promoter	All mapped	Any region at matching gene	SWAN	Reapply ranges	166	0.0788242442628226	0.3127459542899989
+Promoter	All mapped	Any region at matching gene	ssNoob_SWAN	Published range fixed	167	0.06961537215852741	0.37134491260693364
+Promoter	All mapped	Any region at matching gene	ssNoob_SWAN	Full	221	0.016949966351467272	0.8021477982870157
+Promoter	All mapped	Any region at matching gene	ssNoob_SWAN	Reapply ranges	181	0.025814106175162107	0.7301359559316932
+Promoter	All mapped	Any region at matching gene	ssNoob_dye	Published range fixed	167	0.07297154154327584	0.348672433305976
+Promoter	All mapped	Any region at matching gene	ssNoob_dye	Full	221	0.0028973689760175294	0.9658383911480298
+Promoter	All mapped	Any region at matching gene	ssNoob_dye	Reapply ranges	181	0.03541302505608584	0.6360125493371034
+Promoter	Detection	Gene and region paired	GEO	Published range fixed	167	0.014042981527613624	0.8570574616009866
+Promoter	Detection	Gene and region paired	GEO	Full	219	0.009268228492326098	0.891524630526807
+Promoter	Detection	Gene and region paired	GEO	Reapply ranges	170	0.058648262844137725	0.44743855781412073
+Promoter	Detection	Gene and region paired	SWAN	Published range fixed	167	0.014770503356084087	0.8497372878375482
+Promoter	Detection	Gene and region paired	SWAN	Full	219	0.009155774280566919	0.8928328578796989
+Promoter	Detection	Gene and region paired	SWAN	Reapply ranges	170	0.06010747883361679	0.4361989625710131
+Promoter	Detection	Gene and region paired	ssNoob_SWAN	Published range fixed	167	0.049611024121276576	0.5243251124127865
+Promoter	Detection	Gene and region paired	ssNoob_SWAN	Full	219	0.012406468705575522	0.8551469645480929
+Promoter	Detection	Gene and region paired	ssNoob_SWAN	Reapply ranges	186	-0.05204219472826211	0.4805274768300311
+Promoter	Detection	Gene and region paired	ssNoob_dye	Published range fixed	167	0.05197154591051425	0.5047549686961287
+Promoter	Detection	Gene and region paired	ssNoob_dye	Full	219	-0.0011491408364300182	0.986509678519645
+Promoter	Detection	Gene and region paired	ssNoob_dye	Reapply ranges	184	-0.012697464428224758	0.864168785926118
+Promoter	Detection	Any region at matching gene	GEO	Published range fixed	167	0.076666922489956	0.3247401307130733
+Promoter	Detection	Any region at matching gene	GEO	Full	221	0.010103726890433127	0.881273732560441
+Promoter	Detection	Any region at matching gene	GEO	Reapply ranges	166	0.07856258750977133	0.31435997954507694
+Promoter	Detection	Any region at matching gene	SWAN	Published range fixed	167	0.07709315965081635	0.3220495190984117
+Promoter	Detection	Any region at matching gene	SWAN	Full	221	0.01015377373413696	0.8806900071849861
+Promoter	Detection	Any region at matching gene	SWAN	Reapply ranges	166	0.07906424559458938	0.3112702735813082
+Promoter	Detection	Any region at matching gene	ssNoob_SWAN	Published range fixed	167	0.06962628369045491	0.3712697622701296
+Promoter	Detection	Any region at matching gene	ssNoob_SWAN	Full	221	0.016925589760191893	0.8024264867136311
+Promoter	Detection	Any region at matching gene	ssNoob_SWAN	Reapply ranges	181	0.0256965471220854	0.7313176694702823
+Promoter	Detection	Any region at matching gene	ssNoob_dye	Published range fixed	167	0.07298493732797781	0.3485837216095377
+Promoter	Detection	Any region at matching gene	ssNoob_dye	Full	221	0.002866800560037018	0.9661985946028872
+Promoter	Detection	Any region at matching gene	ssNoob_dye	Reapply ranges	181	0.03535596269001384	0.6365569975084795
+Promoter	Zhou	Gene and region paired	GEO	Published range fixed	165	-0.008451067434864517	0.9142078295771155
+Promoter	Zhou	Gene and region paired	GEO	Full	215	0.12155199812425134	0.0753197143384436
+Promoter	Zhou	Gene and region paired	GEO	Reapply ranges	166	0.02281676607066672	0.7704471172066458
+Promoter	Zhou	Gene and region paired	SWAN	Published range fixed	165	-0.00822291125480418	0.9165154789223258
+Promoter	Zhou	Gene and region paired	SWAN	Full	215	0.12172063197933164	0.07491270542923364
+Promoter	Zhou	Gene and region paired	SWAN	Reapply ranges	167	0.034664274732093166	0.6565147084247902
+Promoter	Zhou	Gene and region paired	ssNoob_SWAN	Published range fixed	165	0.034917105307184004	0.6561431537743189
+Promoter	Zhou	Gene and region paired	ssNoob_SWAN	Full	215	0.10939349515277397	0.10971473777479251
+Promoter	Zhou	Gene and region paired	ssNoob_SWAN	Reapply ranges	184	-0.03076426720163464	0.6784632218801908
+Promoter	Zhou	Gene and region paired	ssNoob_dye	Published range fixed	165	0.03569857843268155	0.6489541343199533
+Promoter	Zhou	Gene and region paired	ssNoob_dye	Full	215	0.07322266671135241	0.28514557755035636
+Promoter	Zhou	Gene and region paired	ssNoob_dye	Reapply ranges	182	0.01219365915634511	0.870223875210981
+Promoter	Zhou	Any region at matching gene	GEO	Published range fixed	165	0.04396642340355833	0.5749770252886011
+Promoter	Zhou	Any region at matching gene	GEO	Full	217	0.11959960997719056	0.07875569249854965
+Promoter	Zhou	Any region at matching gene	GEO	Reapply ranges	165	0.07099936002904247	0.3648224600454822
+Promoter	Zhou	Any region at matching gene	SWAN	Published range fixed	165	0.0440132947253949	0.5745691224798807
+Promoter	Zhou	Any region at matching gene	SWAN	Full	217	0.11987608258201328	0.07806165925438664
+Promoter	Zhou	Any region at matching gene	SWAN	Reapply ranges	166	0.08291941134376415	0.2881905825857555
+Promoter	Zhou	Any region at matching gene	ssNoob_SWAN	Published range fixed	165	0.04211390009396705	0.5912063773009241
+Promoter	Zhou	Any region at matching gene	ssNoob_SWAN	Full	217	0.11830875111768538	0.08206240367177686
+Promoter	Zhou	Any region at matching gene	ssNoob_SWAN	Reapply ranges	180	0.023302734655405777	0.7561784089064391
+Promoter	Zhou	Any region at matching gene	ssNoob_dye	Published range fixed	165	0.0442233584456195	0.5727426885294844
+Promoter	Zhou	Any region at matching gene	ssNoob_dye	Full	217	0.09281560452110213	0.17310169178743998
+Promoter	Zhou	Any region at matching gene	ssNoob_dye	Reapply ranges	180	0.025600241394346863	0.7330084402436089

@@ -1,0 +1,25 @@
+universe	method	eligible	called	gains	losses	published_sites_retained	published_gains_retained	T5_STAT3_probes_passing	chr21_nominal_gains	chr21_nominal_losses
+Published 347 (fixed)	GEO	346	346	231	115	346	231	20	1	5
+Published 347 (fixed)	SWAN	346	333	220	113	333	220	19	1	5
+Published 347 (fixed)	Noob_background_SWAN	346	303	202	101	303	202	19	1	5
+Published 347 (fixed)	ssNoob_SWAN	346	289	188	101	289	188	18	1	5
+Published 347 (fixed)	ssNoob_dye	346	208	137	71	208	137	11	1	5
+Published 347 (fixed)	ssNoob_0	346	222	133	89	222	133	11	1	5
+Zhou filter	GEO	717635	114	70	44	106	65	4	773	160
+Zhou filter	SWAN	717635	116	70	46	101	61	4	756	166
+Zhou filter	Noob_background_SWAN	717635	347	226	121	86	55	4	844	149
+Zhou filter	ssNoob_SWAN	717635	270	114	156	83	50	4	462	281
+Zhou filter	ssNoob_dye	717635	173	110	63	59	39	2	447	301
+Zhou filter	ssNoob_0	717635	197	101	96	67	37	2	293	362
+Detection only	GEO	843059	572	380	192	334	219	36	896	198
+Detection only	SWAN	843059	569	378	191	324	211	35	874	205
+Detection only	Noob_background_SWAN	843059	1067	725	342	303	202	36	999	177
+Detection only	ssNoob_SWAN	843059	885	502	383	289	188	35	549	349
+Detection only	ssNoob_dye	843059	660	445	215	208	137	26	528	374
+Detection only	ssNoob_0	843059	660	382	278	222	133	25	352	448
+Full autosomal joint support	GEO	843393	587	394	193	346	231	37	896	198
+Full autosomal joint support	SWAN	843393	582	389	193	333	220	36	874	205
+Full autosomal joint support	Noob_background_SWAN	843393	1070	728	342	303	202	36	999	177
+Full autosomal joint support	ssNoob_SWAN	843393	887	504	383	289	188	35	549	349
+Full autosomal joint support	ssNoob_dye	843393	663	448	215	208	137	26	528	374
+Full autosomal joint support	ssNoob_0	843393	662	384	278	222	133	25	352	448

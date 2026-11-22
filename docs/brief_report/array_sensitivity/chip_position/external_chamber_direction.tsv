@@ -1,0 +1,3 @@
+reference	agreement	expected_raw_agreement	spearman	n	target_n	exposed_n	overlap	matched_target_n	matched_overlap	matched_expected_overlap	or	chromosome_ci_low	chromosome_ci_high	informative_chromosomes	chromosomes_or_gt_one
+Butler_raw	0.76811211	0.753920642	0.0173453059	15128	13422	12524	11219	12187	10365	9553.966	1.45710242	1.21725586	1.74562397	22	16
+Butler_sesame	0.66874938	0.661572648	0.0423517547	10083	9285	6977	6461	7754	5480	5256.84392	1.21152307	1.02341629	1.44944164	22	13

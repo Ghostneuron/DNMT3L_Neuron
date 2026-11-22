@@ -1,0 +1,25 @@
+args <- commandArgs(TRUE)
+stopifnot(length(args) == 3L)
+m <- read.delim(args[2], colClasses = "character")
+bases <- file.path(args[1], paste(m$geo_accession,m$chip_id,m$position,sep="_"))
+rg <- minfi::read.metharray(bases)
+controls <- minfi::getProbeInfo(rg, type="Control")
+g <- as.character(controls$Address[controls$Type %in% c("NORM_C","NORM_G")])
+r <- as.character(controls$Address[controls$Type %in% c("NORM_A","NORM_T")])
+stopifnot(length(g)>0L, length(r)>0L)
+control_g <- colMeans(minfi::getGreen(rg)[g,,drop=FALSE])
+control_r <- colMeans(minfi::getRed(rg)[r,,drop=FALSE])
+background <- minfi::preprocessNoob(rg, offset=15, dyeCorr=FALSE, dyeMethod="single")
+corrected <- minfi::preprocessNoob(rg, offset=15, dyeCorr=TRUE, dyeMethod="single")
+anno <- minfi::getAnnotation(background)
+ii <- intersect(rownames(background), anno$Name[which(paste0(anno$Type, anno$Color) == "II")])
+stopifnot(length(ii) > 600000L)
+u0 <- minfi::getUnmeth(background)[ii,,drop=FALSE]
+u1 <- minfi::getUnmeth(corrected)[ii,,drop=FALSE]
+factor <- apply(u1/u0, 2, median)
+stopifnot(max(abs(sweep(u1/u0,2,factor))) < 1e-10)
+stopifnot(max(abs(minfi::getMeth(background)[ii,] - minfi::getMeth(corrected)[ii,])) < 1e-10)
+tab <- data.frame(sample=m$sample,label=m$label,position=m$position,
+                  green_n=length(g),red_n=length(r),green_mean=unname(control_g),red_mean=unname(control_r),
+                  raw_green_red=unname(control_g/control_r),ssnoob_red_multiplier=unname(factor))
+write.table(tab,args[3],sep="\t",quote=FALSE,row.names=FALSE)

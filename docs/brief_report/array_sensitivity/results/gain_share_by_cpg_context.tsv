@@ -1,0 +1,33 @@
+workflow	probe_type	category	eligible	gains	losses	selected	gain_share
+IDAT_raw	All	Island	155099	767	179	946	0.810782241
+IDAT_raw	All	Shore	145891	2007	226	2233	0.898790864
+IDAT_raw	All	Shelf	76647	1385	195	1580	0.876582278
+IDAT_raw	All	Open sea	488106	9663	1180	10843	0.891174029
+IDAT_raw	Type I red	Island	47736	134	87	221	0.606334842
+IDAT_raw	Type I red	Shore	15813	84	68	152	0.552631579
+IDAT_raw	Type I red	Shelf	7409	48	46	94	0.510638298
+IDAT_raw	Type I red	Open sea	21252	133	124	257	0.517509728
+IDAT_raw	Type I green	Island	32575	69	58	127	0.543307087
+IDAT_raw	Type I green	Shore	6320	39	25	64	0.609375
+IDAT_raw	Type I green	Shelf	2885	18	13	31	0.580645161
+IDAT_raw	Type I green	Open sea	8155	36	41	77	0.467532468
+IDAT_raw	Type II	Island	74788	564	34	598	0.943143813
+IDAT_raw	Type II	Shore	123758	1884	133	2017	0.934060486
+IDAT_raw	Type II	Shelf	66353	1319	136	1455	0.90652921
+IDAT_raw	Type II	Open sea	458699	9494	1015	10509	0.90341612
+ssNoob_dye	All	Island	155099	381	300	681	0.559471366
+ssNoob_dye	All	Shore	145891	646	624	1270	0.508661417
+ssNoob_dye	All	Shelf	76647	467	391	858	0.544289044
+ssNoob_dye	All	Open sea	488106	2751	3182	5933	0.463677735
+ssNoob_dye	Type I red	Island	47736	143	104	247	0.578947368
+ssNoob_dye	Type I red	Shore	15813	100	89	189	0.529100529
+ssNoob_dye	Type I red	Shelf	7409	71	41	112	0.633928571
+ssNoob_dye	Type I red	Open sea	21252	185	149	334	0.553892216
+ssNoob_dye	Type I green	Island	32575	75	68	143	0.524475524
+ssNoob_dye	Type I green	Shore	6320	43	35	78	0.551282051
+ssNoob_dye	Type I green	Shelf	2885	27	13	40	0.675
+ssNoob_dye	Type I green	Open sea	8155	60	48	108	0.555555556
+ssNoob_dye	Type II	Island	74788	163	128	291	0.560137457
+ssNoob_dye	Type II	Shore	123758	503	500	1003	0.501495513
+ssNoob_dye	Type II	Shelf	66353	369	337	706	0.52266289
+ssNoob_dye	Type II	Open sea	458699	2506	2985	5491	0.456383172

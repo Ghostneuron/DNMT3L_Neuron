@@ -22,6 +22,10 @@ The [dated post hoc sensitivity analyses](docs/brief_report/sensitivity/) includ
 
 See the [Brief Report reproducibility guide](docs/brief_report/README.md) and [full estimates](docs/brief_report/estimates.tsv) for the frozen signature, inputs, and original commands.
 
+The [array and donor sensitivity addendum](docs/brief_report/array_sensitivity/)
+contains the Table S6/S7 code and results, the Qin-rule reanalysis, and the
+21 November 2026 exploratory power simulation.
+
 ## Archived R1 reproducibility materials
 
 Version 1.1.0 documents the preceding analysis, “Context-dependent concordance of DNMT3L-sensitive methylation in Down syndrome neurodevelopment.”

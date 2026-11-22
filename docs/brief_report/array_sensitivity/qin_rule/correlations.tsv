@@ -1,0 +1,21 @@
+method	contrast	region	n	r	p
+GEO	Published 225 gene panel	Body	219	-0.07825519066297085	0.24882296387379071
+GEO	Published 225 gene panel	Promoter	215	0.12320716759237835	0.07140149317334737
+GEO	Reconstructed RNA–methylation intersection	Body	102	-0.13287915190620214	0.18306194403378906
+GEO	Reconstructed RNA–methylation intersection	Promoter	100	0.23057514864543527	0.021001697796552886
+SWAN	Published 225 gene panel	Body	219	-0.08001790328293523	0.23828985997297983
+SWAN	Published 225 gene panel	Promoter	215	0.12353582035875785	0.0706435762530266
+SWAN	Reconstructed RNA–methylation intersection	Body	98	-0.1348612210531947	0.18550778224053927
+SWAN	Reconstructed RNA–methylation intersection	Promoter	96	0.22837606366711533	0.02522294539144366
+ssNoob_SWAN	Published 225 gene panel	Body	219	-0.08700953121162174	0.19960117535741714
+ssNoob_SWAN	Published 225 gene panel	Promoter	215	0.11033916824870836	0.10666017170625756
+ssNoob_SWAN	Reconstructed RNA–methylation intersection	Body	100	-0.12946488285882432	0.19921815027603224
+ssNoob_SWAN	Reconstructed RNA–methylation intersection	Promoter	97	0.155989398597094	0.12707031804877025
+ssNoob_dye	Published 225 gene panel	Body	219	-0.09567380050760173	0.15825078024319453
+ssNoob_dye	Published 225 gene panel	Promoter	215	0.07353767343098226	0.28307276924845043
+ssNoob_dye	Reconstructed RNA–methylation intersection	Body	70	-0.14735292034247255	0.22348906364679821
+ssNoob_dye	Reconstructed RNA–methylation intersection	Promoter	67	0.10723732756071928	0.38772466184004634
+Published cells	as stored	Methylation difference in gene body	225	-0.06979254555834248	0.2972592708244468
+Published cells	excluding abs beta >1	Methylation difference in gene body	225	-0.06979254555834248	0.2972592708244468
+Published cells	as stored	Methylation difference in promoter	221	0.008347244893920476	0.9017989394690681
+Published cells	excluding abs beta >1	Methylation difference in promoter	221	0.008347244893920476	0.9017989394690681

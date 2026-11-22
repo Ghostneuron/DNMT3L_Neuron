@@ -1,0 +1,127 @@
+sample	metric	value	threshold	failed
+"1"	"Restoration"	0.0501089324618736	0	FALSE
+"2"	"Restoration"	0.0465260545905707	0	FALSE
+"3"	"Restoration"	0.0346856611954165	0	FALSE
+"4"	"Restoration"	0.0546850998463902	0	FALSE
+"5"	"Restoration"	0.0460927960927961	0	FALSE
+"6"	"Restoration"	0.0660235152246005	0	FALSE
+"1"	"Bisulfite Conversion I Green"	16.5664488017429	1	FALSE
+"2"	"Bisulfite Conversion I Green"	14.4726631393298	1	FALSE
+"3"	"Bisulfite Conversion I Green"	15.8752327746741	1	FALSE
+"4"	"Bisulfite Conversion I Green"	12.9528571428571	1	FALSE
+"5"	"Bisulfite Conversion I Green"	13.8154506437768	1	FALSE
+"6"	"Bisulfite Conversion I Green"	12.8239795918367	1	FALSE
+"1"	"Bisulfite Conversion I Green (Bkg)"	7	1	FALSE
+"2"	"Bisulfite Conversion I Green (Bkg)"	5.68606701940035	1	FALSE
+"3"	"Bisulfite Conversion I Green (Bkg)"	6.01303538175047	1	FALSE
+"4"	"Bisulfite Conversion I Green (Bkg)"	4.65	1	FALSE
+"5"	"Bisulfite Conversion I Green (Bkg)"	4.68669527896996	1	FALSE
+"6"	"Bisulfite Conversion I Green (Bkg)"	4.23086734693878	1	FALSE
+"1"	"Bisulfite Conversion I Red"	8.34285714285714	1	FALSE
+"2"	"Bisulfite Conversion I Red"	7.62702429149798	1	FALSE
+"3"	"Bisulfite Conversion I Red"	6.90989399293286	1	FALSE
+"4"	"Bisulfite Conversion I Red"	7.35195530726257	1	FALSE
+"5"	"Bisulfite Conversion I Red"	7.05258545135846	1	FALSE
+"6"	"Bisulfite Conversion I Red"	6.82776659959759	1	FALSE
+"1"	"Bisulfite Conversion I Red (Bkg)"	2.69725274725275	1	FALSE
+"2"	"Bisulfite Conversion I Red (Bkg)"	2.57641700404858	1	FALSE
+"3"	"Bisulfite Conversion I Red (Bkg)"	2.14178445229682	1	FALSE
+"4"	"Bisulfite Conversion I Red (Bkg)"	2.29608938547486	1	FALSE
+"5"	"Bisulfite Conversion I Red (Bkg)"	2.20508326029798	1	FALSE
+"6"	"Bisulfite Conversion I Red (Bkg)"	2.16619718309859	1	FALSE
+"1"	"Bisulfite Conversion II"	8.1614481409002	1	FALSE
+"2"	"Bisulfite Conversion II"	7.94602551521099	1	FALSE
+"3"	"Bisulfite Conversion II"	7.8114985862394	1	FALSE
+"4"	"Bisulfite Conversion II"	7.21720613287905	1	FALSE
+"5"	"Bisulfite Conversion II"	6.40981132075472	1	FALSE
+"6"	"Bisulfite Conversion II"	6.39819944598338	1	FALSE
+"1"	"Bisulfite Conversion II (Bkg)"	3.14383561643836	1	FALSE
+"2"	"Bisulfite Conversion II (Bkg)"	3.16388616290481	1	FALSE
+"3"	"Bisulfite Conversion II (Bkg)"	3.04335532516494	1	FALSE
+"4"	"Bisulfite Conversion II (Bkg)"	2.77257240204429	1	FALSE
+"5"	"Bisulfite Conversion II (Bkg)"	2.47245283018868	1	FALSE
+"6"	"Bisulfite Conversion II (Bkg)"	2.29709141274238	1	FALSE
+"1"	"Hybridization High/Medium"	1.60406195507232	1	FALSE
+"2"	"Hybridization High/Medium"	1.58010571840461	1	FALSE
+"3"	"Hybridization High/Medium"	1.55545641117159	1	FALSE
+"4"	"Hybridization High/Medium"	1.54132021041914	1	FALSE
+"5"	"Hybridization High/Medium"	1.59056438093718	1	FALSE
+"6"	"Hybridization High/Medium"	1.58814733196915	1	FALSE
+"1"	"Hybridization Medium/Low"	1.84465468306528	1	FALSE
+"2"	"Hybridization Medium/Low"	1.86235904778951	1	FALSE
+"3"	"Hybridization Medium/Low"	1.8816319677636	1	FALSE
+"4"	"Hybridization Medium/Low"	1.93339895013123	1	FALSE
+"5"	"Hybridization Medium/Low"	1.86691505216095	1	FALSE
+"6"	"Hybridization Medium/Low"	1.87431774598023	1	FALSE
+"1"	"Extension Green"	80.4131455399061	5	FALSE
+"2"	"Extension Green"	81.25	5	FALSE
+"3"	"Extension Green"	84.5021834061135	5	FALSE
+"4"	"Extension Green"	80.1333333333333	5	FALSE
+"5"	"Extension Green"	80.4746376811594	5	FALSE
+"6"	"Extension Green"	74.4069400630915	5	FALSE
+"1"	"Extension Red"	14.1875327396543	5	FALSE
+"2"	"Extension Red"	13.0243902439024	5	FALSE
+"3"	"Extension Red"	14.9789075175771	5	FALSE
+"4"	"Extension Red"	14.2644927536232	5	FALSE
+"5"	"Extension Red"	14.4286417322835	5	FALSE
+"6"	"Extension Red"	12.9391523289971	5	FALSE
+"1"	"Staining Green"	250.694915254237	5	FALSE
+"2"	"Staining Green"	666.954545454546	5	FALSE
+"3"	"Staining Green"	351.2	5	FALSE
+"4"	"Staining Green"	286.148148148148	5	FALSE
+"5"	"Staining Green"	889.777777777778	5	FALSE
+"6"	"Staining Green"	802.473684210527	5	FALSE
+"1"	"Staining Red"	90.8327868852459	5	FALSE
+"2"	"Staining Red"	85.0215384615385	5	FALSE
+"3"	"Staining Red"	120.818930041152	5	FALSE
+"4"	"Staining Red"	62.5258426966292	5	FALSE
+"5"	"Staining Red"	84.6964285714286	5	FALSE
+"6"	"Staining Red"	106.683720930233	5	FALSE
+"1"	"Target Removal 1"	23.9776119402985	1	FALSE
+"2"	"Target Removal 1"	18.7441860465116	1	FALSE
+"3"	"Target Removal 1"	21.9659863945578	1	FALSE
+"4"	"Target Removal 1"	16.356783919598	1	FALSE
+"5"	"Target Removal 1"	14.431718061674	1	FALSE
+"6"	"Target Removal 1"	14.1148936170213	1	FALSE
+"1"	"Target Removal 2"	19.355421686747	1	FALSE
+"2"	"Target Removal 2"	17.6174863387978	1	FALSE
+"3"	"Target Removal 2"	17.6448087431694	1	FALSE
+"4"	"Target Removal 2"	14.8630136986301	1	FALSE
+"5"	"Target Removal 2"	12.6486486486486	1	FALSE
+"6"	"Target Removal 2"	10.1128048780488	1	FALSE
+"1"	"Specificity I Green"	19.1761363636364	1	FALSE
+"2"	"Specificity I Green"	17.3678756476684	1	FALSE
+"3"	"Specificity I Green"	16.2311320754717	1	FALSE
+"4"	"Specificity I Green"	16.5930735930736	1	FALSE
+"5"	"Specificity I Green"	15.6166007905138	1	FALSE
+"6"	"Specificity I Green"	12.0589970501475	1	FALSE
+"1"	"Specificity I Red"	5.98994132439229	1	FALSE
+"2"	"Specificity I Red"	6.86456400742115	1	FALSE
+"3"	"Specificity I Red"	5.51752423564504	1	FALSE
+"4"	"Specificity I Red"	6.06677393403057	1	FALSE
+"5"	"Specificity I Red"	6.39983235540654	1	FALSE
+"6"	"Specificity I Red"	5.57246904588492	1	FALSE
+"1"	"Specificity II"	53.4615384615385	1	FALSE
+"2"	"Specificity II"	39.8867313915858	1	FALSE
+"3"	"Specificity II"	35.706043956044	1	FALSE
+"4"	"Specificity II"	37.7636887608069	1	FALSE
+"5"	"Specificity II"	35.11227154047	1	FALSE
+"6"	"Specificity II"	35.4634146341463	1	FALSE
+"1"	"Specificity II (Bkg)"	13.7307692307692	1	FALSE
+"2"	"Specificity II (Bkg)"	10.4336569579288	1	FALSE
+"3"	"Specificity II (Bkg)"	8.87087912087912	1	FALSE
+"4"	"Specificity II (Bkg)"	9.38040345821326	1	FALSE
+"5"	"Specificity II (Bkg)"	8.55352480417755	1	FALSE
+"6"	"Specificity II (Bkg)"	8.09024390243902	1	FALSE
+"1"	"Non-polymorphic Green"	0.321804511278196	5	TRUE
+"2"	"Non-polymorphic Green"	0.284046692607004	5	TRUE
+"3"	"Non-polymorphic Green"	0.340569877883311	5	TRUE
+"4"	"Non-polymorphic Green"	0.344086021505376	5	TRUE
+"5"	"Non-polymorphic Green"	0.296517412935323	5	TRUE
+"6"	"Non-polymorphic Green"	0.367924528301887	5	TRUE
+"1"	"Non-polymorphic Red"	20.2877237851662	5	FALSE
+"2"	"Non-polymorphic Red"	22.0990099009901	5	FALSE
+"3"	"Non-polymorphic Red"	21.2234042553192	5	FALSE
+"4"	"Non-polymorphic Red"	20.6613333333333	5	FALSE
+"5"	"Non-polymorphic Red"	17.9512459371614	5	FALSE
+"6"	"Non-polymorphic Red"	17.6893704850361	5	FALSE

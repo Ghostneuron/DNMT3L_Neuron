@@ -1,0 +1,313 @@
+universe	method	annotation	gains	losses	annotated	total_calls
+Published 347 (fixed)	GEO	N_Shelf	4	5	9	346
+Published 347 (fixed)	GEO	N_Shore	12	5	17	346
+Published 347 (fixed)	GEO	Island	11	5	16	346
+Published 347 (fixed)	GEO	S_Shore	7	10	17	346
+Published 347 (fixed)	GEO	S_Shelf	5	1	6	346
+Published 347 (fixed)	GEO	OpenSea	192	89	281	346
+Published 347 (fixed)	GEO	TSS1500	20	6	26	346
+Published 347 (fixed)	GEO	TSS200	5	3	8	346
+Published 347 (fixed)	GEO	5'UTR	18	10	28	346
+Published 347 (fixed)	GEO	1stExon	1	0	1	346
+Published 347 (fixed)	GEO	Body	102	53	155	346
+Published 347 (fixed)	GEO	3'UTR	7	3	10	346
+Published 347 (fixed)	GEO	Intergene	92	45	137	346
+Published 347 (fixed)	SWAN	N_Shelf	4	5	9	333
+Published 347 (fixed)	SWAN	N_Shore	11	5	16	333
+Published 347 (fixed)	SWAN	Island	11	5	16	333
+Published 347 (fixed)	SWAN	S_Shore	7	10	17	333
+Published 347 (fixed)	SWAN	S_Shelf	5	1	6	333
+Published 347 (fixed)	SWAN	OpenSea	182	87	269	333
+Published 347 (fixed)	SWAN	TSS1500	17	5	22	333
+Published 347 (fixed)	SWAN	TSS200	5	3	8	333
+Published 347 (fixed)	SWAN	5'UTR	16	9	25	333
+Published 347 (fixed)	SWAN	1stExon	1	0	1	333
+Published 347 (fixed)	SWAN	Body	96	53	149	333
+Published 347 (fixed)	SWAN	3'UTR	7	3	10	333
+Published 347 (fixed)	SWAN	Intergene	90	45	135	333
+Published 347 (fixed)	Noob_background_SWAN	N_Shelf	4	5	9	303
+Published 347 (fixed)	Noob_background_SWAN	N_Shore	8	4	12	303
+Published 347 (fixed)	Noob_background_SWAN	Island	10	4	14	303
+Published 347 (fixed)	Noob_background_SWAN	S_Shore	6	9	15	303
+Published 347 (fixed)	Noob_background_SWAN	S_Shelf	4	0	4	303
+Published 347 (fixed)	Noob_background_SWAN	OpenSea	170	79	249	303
+Published 347 (fixed)	Noob_background_SWAN	TSS1500	12	5	17	303
+Published 347 (fixed)	Noob_background_SWAN	TSS200	4	2	6	303
+Published 347 (fixed)	Noob_background_SWAN	5'UTR	16	9	25	303
+Published 347 (fixed)	Noob_background_SWAN	1stExon	0	0	0	303
+Published 347 (fixed)	Noob_background_SWAN	Body	90	46	136	303
+Published 347 (fixed)	Noob_background_SWAN	3'UTR	6	3	9	303
+Published 347 (fixed)	Noob_background_SWAN	Intergene	85	40	125	303
+Published 347 (fixed)	ssNoob_SWAN	N_Shelf	4	5	9	289
+Published 347 (fixed)	ssNoob_SWAN	N_Shore	7	3	10	289
+Published 347 (fixed)	ssNoob_SWAN	Island	8	4	12	289
+Published 347 (fixed)	ssNoob_SWAN	S_Shore	6	9	15	289
+Published 347 (fixed)	ssNoob_SWAN	S_Shelf	3	1	4	289
+Published 347 (fixed)	ssNoob_SWAN	OpenSea	160	79	239	289
+Published 347 (fixed)	ssNoob_SWAN	TSS1500	11	5	16	289
+Published 347 (fixed)	ssNoob_SWAN	TSS200	4	2	6	289
+Published 347 (fixed)	ssNoob_SWAN	5'UTR	14	9	23	289
+Published 347 (fixed)	ssNoob_SWAN	1stExon	0	0	0	289
+Published 347 (fixed)	ssNoob_SWAN	Body	81	46	127	289
+Published 347 (fixed)	ssNoob_SWAN	3'UTR	6	3	9	289
+Published 347 (fixed)	ssNoob_SWAN	Intergene	80	40	120	289
+Published 347 (fixed)	ssNoob_dye	N_Shelf	3	4	7	208
+Published 347 (fixed)	ssNoob_dye	N_Shore	5	2	7	208
+Published 347 (fixed)	ssNoob_dye	Island	8	4	12	208
+Published 347 (fixed)	ssNoob_dye	S_Shore	4	9	13	208
+Published 347 (fixed)	ssNoob_dye	S_Shelf	1	0	1	208
+Published 347 (fixed)	ssNoob_dye	OpenSea	116	52	168	208
+Published 347 (fixed)	ssNoob_dye	TSS1500	9	3	12	208
+Published 347 (fixed)	ssNoob_dye	TSS200	3	2	5	208
+Published 347 (fixed)	ssNoob_dye	5'UTR	10	6	16	208
+Published 347 (fixed)	ssNoob_dye	1stExon	0	0	0	208
+Published 347 (fixed)	ssNoob_dye	Body	60	33	93	208
+Published 347 (fixed)	ssNoob_dye	3'UTR	6	2	8	208
+Published 347 (fixed)	ssNoob_dye	Intergene	55	28	83	208
+Published 347 (fixed)	ssNoob_0	N_Shelf	3	4	7	222
+Published 347 (fixed)	ssNoob_0	N_Shore	5	3	8	222
+Published 347 (fixed)	ssNoob_0	Island	8	4	12	222
+Published 347 (fixed)	ssNoob_0	S_Shore	4	9	13	222
+Published 347 (fixed)	ssNoob_0	S_Shelf	1	1	2	222
+Published 347 (fixed)	ssNoob_0	OpenSea	112	68	180	222
+Published 347 (fixed)	ssNoob_0	TSS1500	9	6	15	222
+Published 347 (fixed)	ssNoob_0	TSS200	3	2	5	222
+Published 347 (fixed)	ssNoob_0	5'UTR	8	8	16	222
+Published 347 (fixed)	ssNoob_0	1stExon	0	0	0	222
+Published 347 (fixed)	ssNoob_0	Body	58	39	97	222
+Published 347 (fixed)	ssNoob_0	3'UTR	6	2	8	222
+Published 347 (fixed)	ssNoob_0	Intergene	54	35	89	222
+Zhou filter	GEO	N_Shelf	3	3	6	114
+Zhou filter	GEO	N_Shore	8	2	10	114
+Zhou filter	GEO	Island	8	3	11	114
+Zhou filter	GEO	S_Shore	5	4	9	114
+Zhou filter	GEO	S_Shelf	0	1	1	114
+Zhou filter	GEO	OpenSea	46	31	77	114
+Zhou filter	GEO	TSS1500	11	3	14	114
+Zhou filter	GEO	TSS200	3	2	5	114
+Zhou filter	GEO	5'UTR	7	5	12	114
+Zhou filter	GEO	1stExon	0	0	0	114
+Zhou filter	GEO	Body	31	25	56	114
+Zhou filter	GEO	3'UTR	6	3	9	114
+Zhou filter	GEO	Intergene	19	9	28	114
+Zhou filter	SWAN	N_Shelf	4	3	7	116
+Zhou filter	SWAN	N_Shore	9	2	11	116
+Zhou filter	SWAN	Island	8	3	11	116
+Zhou filter	SWAN	S_Shore	5	4	9	116
+Zhou filter	SWAN	S_Shelf	0	1	1	116
+Zhou filter	SWAN	OpenSea	44	33	77	116
+Zhou filter	SWAN	TSS1500	10	3	13	116
+Zhou filter	SWAN	TSS200	3	2	5	116
+Zhou filter	SWAN	5'UTR	7	6	13	116
+Zhou filter	SWAN	1stExon	0	1	1	116
+Zhou filter	SWAN	Body	30	26	56	116
+Zhou filter	SWAN	3'UTR	6	3	9	116
+Zhou filter	SWAN	Intergene	22	9	31	116
+Zhou filter	Noob_background_SWAN	N_Shelf	13	5	18	347
+Zhou filter	Noob_background_SWAN	N_Shore	17	6	23	347
+Zhou filter	Noob_background_SWAN	Island	18	2	20	347
+Zhou filter	Noob_background_SWAN	S_Shore	11	6	17	347
+Zhou filter	Noob_background_SWAN	S_Shelf	9	3	12	347
+Zhou filter	Noob_background_SWAN	OpenSea	158	99	257	347
+Zhou filter	Noob_background_SWAN	TSS1500	27	9	36	347
+Zhou filter	Noob_background_SWAN	TSS200	5	2	7	347
+Zhou filter	Noob_background_SWAN	5'UTR	22	17	39	347
+Zhou filter	Noob_background_SWAN	1stExon	3	1	4	347
+Zhou filter	Noob_background_SWAN	Body	92	65	157	347
+Zhou filter	Noob_background_SWAN	3'UTR	13	6	19	347
+Zhou filter	Noob_background_SWAN	Intergene	82	34	116	347
+Zhou filter	ssNoob_SWAN	N_Shelf	4	6	10	270
+Zhou filter	ssNoob_SWAN	N_Shore	9	6	15	270
+Zhou filter	ssNoob_SWAN	Island	11	3	14	270
+Zhou filter	ssNoob_SWAN	S_Shore	7	7	14	270
+Zhou filter	ssNoob_SWAN	S_Shelf	7	6	13	270
+Zhou filter	ssNoob_SWAN	OpenSea	76	128	204	270
+Zhou filter	ssNoob_SWAN	TSS1500	13	12	25	270
+Zhou filter	ssNoob_SWAN	TSS200	4	3	7	270
+Zhou filter	ssNoob_SWAN	5'UTR	12	21	33	270
+Zhou filter	ssNoob_SWAN	1stExon	2	1	3	270
+Zhou filter	ssNoob_SWAN	Body	43	83	126	270
+Zhou filter	ssNoob_SWAN	3'UTR	8	7	15	270
+Zhou filter	ssNoob_SWAN	Intergene	40	45	85	270
+Zhou filter	ssNoob_dye	N_Shelf	7	4	11	173
+Zhou filter	ssNoob_dye	N_Shore	13	2	15	173
+Zhou filter	ssNoob_dye	Island	14	6	20	173
+Zhou filter	ssNoob_dye	S_Shore	7	5	12	173
+Zhou filter	ssNoob_dye	S_Shelf	6	2	8	173
+Zhou filter	ssNoob_dye	OpenSea	63	44	107	173
+Zhou filter	ssNoob_dye	TSS1500	16	5	21	173
+Zhou filter	ssNoob_dye	TSS200	3	2	5	173
+Zhou filter	ssNoob_dye	5'UTR	12	9	21	173
+Zhou filter	ssNoob_dye	1stExon	0	0	0	173
+Zhou filter	ssNoob_dye	Body	47	33	80	173
+Zhou filter	ssNoob_dye	3'UTR	6	4	10	173
+Zhou filter	ssNoob_dye	Intergene	34	16	50	173
+Zhou filter	ssNoob_0	N_Shelf	4	4	8	197
+Zhou filter	ssNoob_0	N_Shore	12	6	18	197
+Zhou filter	ssNoob_0	Island	16	8	24	197
+Zhou filter	ssNoob_0	S_Shore	7	7	14	197
+Zhou filter	ssNoob_0	S_Shelf	5	3	8	197
+Zhou filter	ssNoob_0	OpenSea	57	68	125	197
+Zhou filter	ssNoob_0	TSS1500	13	11	24	197
+Zhou filter	ssNoob_0	TSS200	4	4	8	197
+Zhou filter	ssNoob_0	5'UTR	12	12	24	197
+Zhou filter	ssNoob_0	1stExon	0	0	0	197
+Zhou filter	ssNoob_0	Body	41	48	89	197
+Zhou filter	ssNoob_0	3'UTR	6	5	11	197
+Zhou filter	ssNoob_0	Intergene	33	25	58	197
+Detection only	GEO	N_Shelf	11	12	23	572
+Detection only	GEO	N_Shore	23	7	30	572
+Detection only	GEO	Island	22	12	34	572
+Detection only	GEO	S_Shore	20	20	40	572
+Detection only	GEO	S_Shelf	21	8	29	572
+Detection only	GEO	OpenSea	283	133	416	572
+Detection only	GEO	TSS1500	38	16	54	572
+Detection only	GEO	TSS200	11	4	15	572
+Detection only	GEO	5'UTR	29	14	43	572
+Detection only	GEO	1stExon	4	1	5	572
+Detection only	GEO	Body	163	82	245	572
+Detection only	GEO	3'UTR	23	8	31	572
+Detection only	GEO	Intergene	136	75	211	572
+Detection only	SWAN	N_Shelf	12	12	24	569
+Detection only	SWAN	N_Shore	23	7	30	569
+Detection only	SWAN	Island	22	11	33	569
+Detection only	SWAN	S_Shore	20	20	40	569
+Detection only	SWAN	S_Shelf	21	9	30	569
+Detection only	SWAN	OpenSea	280	132	412	569
+Detection only	SWAN	TSS1500	37	16	53	569
+Detection only	SWAN	TSS200	11	4	15	569
+Detection only	SWAN	5'UTR	29	14	43	569
+Detection only	SWAN	1stExon	4	2	6	569
+Detection only	SWAN	Body	161	81	242	569
+Detection only	SWAN	3'UTR	23	8	31	569
+Detection only	SWAN	Intergene	138	75	213	569
+Detection only	Noob_background_SWAN	N_Shelf	33	18	51	1067
+Detection only	Noob_background_SWAN	N_Shore	47	15	62	1067
+Detection only	Noob_background_SWAN	Island	38	13	51	1067
+Detection only	Noob_background_SWAN	S_Shore	34	20	54	1067
+Detection only	Noob_background_SWAN	S_Shelf	43	19	62	1067
+Detection only	Noob_background_SWAN	OpenSea	530	257	787	1067
+Detection only	Noob_background_SWAN	TSS1500	73	24	97	1067
+Detection only	Noob_background_SWAN	TSS200	20	4	24	1067
+Detection only	Noob_background_SWAN	5'UTR	69	28	97	1067
+Detection only	Noob_background_SWAN	1stExon	10	2	12	1067
+Detection only	Noob_background_SWAN	Body	299	156	455	1067
+Detection only	Noob_background_SWAN	3'UTR	35	14	49	1067
+Detection only	Noob_background_SWAN	Intergene	273	133	406	1067
+Detection only	ssNoob_SWAN	N_Shelf	21	21	42	885
+Detection only	ssNoob_SWAN	N_Shore	32	14	46	885
+Detection only	ssNoob_SWAN	Island	21	15	36	885
+Detection only	ssNoob_SWAN	S_Shore	28	21	49	885
+Detection only	ssNoob_SWAN	S_Shelf	31	19	50	885
+Detection only	ssNoob_SWAN	OpenSea	369	293	662	885
+Detection only	ssNoob_SWAN	TSS1500	51	27	78	885
+Detection only	ssNoob_SWAN	TSS200	16	7	23	885
+Detection only	ssNoob_SWAN	5'UTR	43	33	76	885
+Detection only	ssNoob_SWAN	1stExon	6	3	9	885
+Detection only	ssNoob_SWAN	Body	203	175	378	885
+Detection only	ssNoob_SWAN	3'UTR	27	15	42	885
+Detection only	ssNoob_SWAN	Intergene	186	147	333	885
+Detection only	ssNoob_dye	N_Shelf	19	15	34	660
+Detection only	ssNoob_dye	N_Shore	32	5	37	660
+Detection only	ssNoob_dye	Island	24	15	39	660
+Detection only	ssNoob_dye	S_Shore	25	19	44	660
+Detection only	ssNoob_dye	S_Shelf	30	12	42	660
+Detection only	ssNoob_dye	OpenSea	315	149	464	660
+Detection only	ssNoob_dye	TSS1500	44	17	61	660
+Detection only	ssNoob_dye	TSS200	11	7	18	660
+Detection only	ssNoob_dye	5'UTR	39	17	56	660
+Detection only	ssNoob_dye	1stExon	3	1	4	660
+Detection only	ssNoob_dye	Body	191	97	288	660
+Detection only	ssNoob_dye	3'UTR	21	9	30	660
+Detection only	ssNoob_dye	Intergene	160	77	237	660
+Detection only	ssNoob_0	N_Shelf	14	17	31	660
+Detection only	ssNoob_0	N_Shore	24	11	35	660
+Detection only	ssNoob_0	Island	26	19	45	660
+Detection only	ssNoob_0	S_Shore	22	21	43	660
+Detection only	ssNoob_0	S_Shelf	25	13	38	660
+Detection only	ssNoob_0	OpenSea	271	197	468	660
+Detection only	ssNoob_0	TSS1500	38	25	63	660
+Detection only	ssNoob_0	TSS200	12	10	22	660
+Detection only	ssNoob_0	5'UTR	35	22	57	660
+Detection only	ssNoob_0	1stExon	2	2	4	660
+Detection only	ssNoob_0	Body	160	122	282	660
+Detection only	ssNoob_0	3'UTR	19	12	31	660
+Detection only	ssNoob_0	Intergene	135	101	236	660
+Full autosomal joint support	GEO	N_Shelf	11	12	23	587
+Full autosomal joint support	GEO	N_Shore	25	8	33	587
+Full autosomal joint support	GEO	Island	22	12	34	587
+Full autosomal joint support	GEO	S_Shore	21	20	41	587
+Full autosomal joint support	GEO	S_Shelf	22	8	30	587
+Full autosomal joint support	GEO	OpenSea	293	133	426	587
+Full autosomal joint support	GEO	TSS1500	43	17	60	587
+Full autosomal joint support	GEO	TSS200	11	4	15	587
+Full autosomal joint support	GEO	5'UTR	30	14	44	587
+Full autosomal joint support	GEO	1stExon	5	1	6	587
+Full autosomal joint support	GEO	Body	168	82	250	587
+Full autosomal joint support	GEO	3'UTR	23	8	31	587
+Full autosomal joint support	GEO	Intergene	141	75	216	587
+Full autosomal joint support	SWAN	N_Shelf	12	13	25	582
+Full autosomal joint support	SWAN	N_Shore	24	8	32	582
+Full autosomal joint support	SWAN	Island	22	11	33	582
+Full autosomal joint support	SWAN	S_Shore	21	20	41	582
+Full autosomal joint support	SWAN	S_Shelf	22	9	31	582
+Full autosomal joint support	SWAN	OpenSea	288	132	420	582
+Full autosomal joint support	SWAN	TSS1500	40	17	57	582
+Full autosomal joint support	SWAN	TSS200	11	4	15	582
+Full autosomal joint support	SWAN	5'UTR	30	14	44	582
+Full autosomal joint support	SWAN	1stExon	5	2	7	582
+Full autosomal joint support	SWAN	Body	165	82	247	582
+Full autosomal joint support	SWAN	3'UTR	23	8	31	582
+Full autosomal joint support	SWAN	Intergene	142	75	217	582
+Full autosomal joint support	Noob_background_SWAN	N_Shelf	35	18	53	1070
+Full autosomal joint support	Noob_background_SWAN	N_Shore	47	15	62	1070
+Full autosomal joint support	Noob_background_SWAN	Island	38	13	51	1070
+Full autosomal joint support	Noob_background_SWAN	S_Shore	34	20	54	1070
+Full autosomal joint support	Noob_background_SWAN	S_Shelf	44	19	63	1070
+Full autosomal joint support	Noob_background_SWAN	OpenSea	530	257	787	1070
+Full autosomal joint support	Noob_background_SWAN	TSS1500	74	24	98	1070
+Full autosomal joint support	Noob_background_SWAN	TSS200	20	4	24	1070
+Full autosomal joint support	Noob_background_SWAN	5'UTR	69	28	97	1070
+Full autosomal joint support	Noob_background_SWAN	1stExon	10	2	12	1070
+Full autosomal joint support	Noob_background_SWAN	Body	300	156	456	1070
+Full autosomal joint support	Noob_background_SWAN	3'UTR	35	14	49	1070
+Full autosomal joint support	Noob_background_SWAN	Intergene	275	133	408	1070
+Full autosomal joint support	ssNoob_SWAN	N_Shelf	22	21	43	887
+Full autosomal joint support	ssNoob_SWAN	N_Shore	32	14	46	887
+Full autosomal joint support	ssNoob_SWAN	Island	21	15	36	887
+Full autosomal joint support	ssNoob_SWAN	S_Shore	28	21	49	887
+Full autosomal joint support	ssNoob_SWAN	S_Shelf	32	19	51	887
+Full autosomal joint support	ssNoob_SWAN	OpenSea	369	293	662	887
+Full autosomal joint support	ssNoob_SWAN	TSS1500	52	27	79	887
+Full autosomal joint support	ssNoob_SWAN	TSS200	16	7	23	887
+Full autosomal joint support	ssNoob_SWAN	5'UTR	43	33	76	887
+Full autosomal joint support	ssNoob_SWAN	1stExon	6	3	9	887
+Full autosomal joint support	ssNoob_SWAN	Body	204	175	379	887
+Full autosomal joint support	ssNoob_SWAN	3'UTR	27	15	42	887
+Full autosomal joint support	ssNoob_SWAN	Intergene	187	147	334	887
+Full autosomal joint support	ssNoob_dye	N_Shelf	21	15	36	663
+Full autosomal joint support	ssNoob_dye	N_Shore	32	5	37	663
+Full autosomal joint support	ssNoob_dye	Island	24	15	39	663
+Full autosomal joint support	ssNoob_dye	S_Shore	25	19	44	663
+Full autosomal joint support	ssNoob_dye	S_Shelf	31	12	43	663
+Full autosomal joint support	ssNoob_dye	OpenSea	315	149	464	663
+Full autosomal joint support	ssNoob_dye	TSS1500	45	17	62	663
+Full autosomal joint support	ssNoob_dye	TSS200	11	7	18	663
+Full autosomal joint support	ssNoob_dye	5'UTR	39	17	56	663
+Full autosomal joint support	ssNoob_dye	1stExon	3	1	4	663
+Full autosomal joint support	ssNoob_dye	Body	192	97	289	663
+Full autosomal joint support	ssNoob_dye	3'UTR	21	9	30	663
+Full autosomal joint support	ssNoob_dye	Intergene	162	77	239	663
+Full autosomal joint support	ssNoob_0	N_Shelf	15	17	32	662
+Full autosomal joint support	ssNoob_0	N_Shore	24	11	35	662
+Full autosomal joint support	ssNoob_0	Island	26	19	45	662
+Full autosomal joint support	ssNoob_0	S_Shore	22	21	43	662
+Full autosomal joint support	ssNoob_0	S_Shelf	26	13	39	662
+Full autosomal joint support	ssNoob_0	OpenSea	271	197	468	662
+Full autosomal joint support	ssNoob_0	TSS1500	39	25	64	662
+Full autosomal joint support	ssNoob_0	TSS200	12	10	22	662
+Full autosomal joint support	ssNoob_0	5'UTR	35	22	57	662
+Full autosomal joint support	ssNoob_0	1stExon	2	2	4	662
+Full autosomal joint support	ssNoob_0	Body	161	122	283	662
+Full autosomal joint support	ssNoob_0	3'UTR	19	12	31	662
+Full autosomal joint support	ssNoob_0	Intergene	136	101	237	662

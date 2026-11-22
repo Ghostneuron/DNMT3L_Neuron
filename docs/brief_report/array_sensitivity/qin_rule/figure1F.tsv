@@ -1,0 +1,17 @@
+universe	method	category	probe_gene_pairs	nominal_gains	nominal_losses	at_strict_cutoff
+Published 347 (fixed)	GEO	cell junction probes	142	118	24	9
+Published 347 (fixed)	GEO	synapse probes	87	71	16	6
+Published 347 (fixed)	SWAN	cell junction probes	142	115	23	9
+Published 347 (fixed)	SWAN	synapse probes	87	69	15	6
+Published 347 (fixed)	ssNoob_SWAN	cell junction probes	142	66	15	8
+Published 347 (fixed)	ssNoob_SWAN	synapse probes	87	36	9	5
+Published 347 (fixed)	ssNoob_dye	cell junction probes	142	62	14	5
+Published 347 (fixed)	ssNoob_dye	synapse probes	87	34	8	4
+Zhou filter	GEO	cell junction probes	142	118	24	9
+Zhou filter	GEO	synapse probes	87	71	16	6
+Zhou filter	SWAN	cell junction probes	142	115	23	9
+Zhou filter	SWAN	synapse probes	87	69	15	6
+Zhou filter	ssNoob_SWAN	cell junction probes	142	66	15	8
+Zhou filter	ssNoob_SWAN	synapse probes	87	36	9	5
+Zhou filter	ssNoob_dye	cell junction probes	142	62	14	5
+Zhou filter	ssNoob_dye	synapse probes	87	34	8	4

@@ -1,0 +1,17 @@
+method	universe	cpg_set	n	clean_group_split	sample_order
+GEO	Published 347 (fixed)	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+GEO	Published 347 (fixed)	Newly selected	346	True	Z1,Z2,Z3,D3,D1,D2
+SWAN	Published 347 (fixed)	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+SWAN	Published 347 (fixed)	Newly selected	333	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_SWAN	Published 347 (fixed)	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_SWAN	Published 347 (fixed)	Newly selected	289	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_dye	Published 347 (fixed)	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_dye	Published 347 (fixed)	Newly selected	208	True	Z1,Z2,Z3,D3,D1,D2
+GEO	Zhou filter	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+GEO	Zhou filter	Newly selected	114	True	Z3,Z1,Z2,D3,D1,D2
+SWAN	Zhou filter	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+SWAN	Zhou filter	Newly selected	116	True	Z3,Z1,Z2,D3,D1,D2
+ssNoob_SWAN	Zhou filter	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_SWAN	Zhou filter	Newly selected	270	True	Z3,Z1,Z2,D3,D1,D2
+ssNoob_dye	Zhou filter	Fixed published surviving	346	True	Z1,Z2,Z3,D3,D1,D2
+ssNoob_dye	Zhou filter	Newly selected	173	True	Z3,Z1,Z2,D3,D1,D2
