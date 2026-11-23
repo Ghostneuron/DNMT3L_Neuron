@@ -12,6 +12,7 @@ Use the pinned Python environment, the fetal cache, and the [Brief Report source
 python get_idats.py "$geo_sample_soft" "$idat_dir"
 Rscript process_idats.R "$idat_dir" array_positions.tsv "$out" "$scratch"
 python compare_preprocessing.py "$scratch/idat_beta.tsv.gz" "$geo_signals" "$epic_annotation" "$signature_module" "$compendium" "$fetal_cache" "$out"
+python summarize_global_mean_delta.py "$scratch/idat_beta.tsv.gz" "$geo_signals" "$out/global_mean_delta.tsv"
 python draw_array_qc.py "$out" "$qc_pdf"
 ```
 
@@ -24,3 +25,5 @@ The per-array summaries apply detection P > 0.01 or missing values as failures, 
 ## Main results
 
 On the original GEO support, raw IDATs reproduced 15,602 calls, 88.6% gains. Background-only Noob gave 20,735 calls, 89.9% gains. Dye-corrected ssNoob gave 8,742 calls, 48.6% gains. Excluding Z1 after dye correction gave 49.4% gains. The corrected fetal ORs were 2.41 and 2.36 with donor permutation P values of 0.428 and 0.336. The paired donor-bootstrap intervals for corrected versus raw ORs included 1. The additional IDAT detection filter gave similar point estimates. Table S6 and the standalone row-wise QC PDF summarize the results. Chip position, scan order and treatment coincide in these six arrays.
+
+Across the same 865,743 probes, the global mean overexpression-minus-control beta difference was +0.011882 for raw beta, +0.011719 after background-only Noob, and +0.001035 after ssNoob dye correction. `global_mean_delta.tsv` reports the full-precision values, and `summarize_global_mean_delta.py` regenerates them from the local IDAT beta intermediate and public GSE157078 signal matrix. This descriptive summary is not a differential-methylation test and does not separate treatment from chip position or scan order.

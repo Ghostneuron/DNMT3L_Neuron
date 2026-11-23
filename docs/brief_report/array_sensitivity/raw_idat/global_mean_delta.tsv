@@ -1,0 +1,4 @@
+workflow	CpGs	control_global_mean_beta	overexpression_global_mean_beta	global_mean_delta_beta_OE_minus_control	median_CpG_delta_beta	mean_absolute_CpG_delta_beta
+Raw beta	865743	0.5390631073	0.5509454422	0.0118823349	0.0105804221	0.0154467801
+Noob background only	865743	0.5642632609	0.5759820363	0.0117187754	0.0092614242	0.0143219718
+ssNoob with dye correction	865743	0.6048861149	0.6059216059	0.0010354910	0.0011808076	0.0085468407

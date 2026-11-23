@@ -1,15 +1,16 @@
 # Post hoc DNMT3L array and donor sensitivity
 
 These dated analyses accompany the fetal Down syndrome Brief Report. The
-[previous Zenodo record](https://doi.org/10.5281/zenodo.24406697) contains
-the frozen primary analysis. Use the adjacent Brief Report directory
-(the archive root in the combined Zenodo ZIP) as `COMPENDIUM`.
+[current Zenodo record](https://doi.org/10.5281/zenodo.24431348) contains the
+combined frozen primary analysis and the earlier sensitivity addendum. Use the
+Brief Report directory (the archive root in the combined Zenodo ZIP) as
+`COMPENDIUM`.
 
 | Directory | Analyses |
 | --- | --- |
 | [signature_checks](signature_checks/) | Label splits, complete separation, limma and fetal OR sensitivity |
 | [chip_position](chip_position/) | Leave-one-array-out, within-group trends and public technical-reference comparisons |
-| [raw_idat](raw_idat/) | Sample mapping, control channel ratios, raw IDAT QC, Noob and ssNoob |
+| [raw_idat](raw_idat/) | Sample mapping, control channel ratios, raw IDAT QC, Noob, ssNoob and global beta difference |
 | [qin_rule](qin_rule/) | Pooled Student t-test, effect-size cutoff, published figure and motif sensitivity |
 | [results](results/) | Effect-size, context, observed donor OR and pseudo-donor power tables |
 

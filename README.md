@@ -1,14 +1,14 @@
 # DNMT3L Neuron
 
-Analysis code and reproducibility materials for **Directional concordance of DNMT3L-associated methylation in fetal Down syndrome brain**.
+Analysis code and reproducibility materials for **Dye bias and donor variation limit the evidence for DNMT3L-driven methylation changes in fetal Down syndrome brain**.
 
 Jie Lu, Independent researcher, San Francisco, California, USA.
 
 ## Brief Report reproducibility materials
 
-Version 1.2.0 contains the donor-level fetal methylation analysis, matched CpG benchmark and paired comparison with the human DNMT3A W330R fibroblast signature.
+Zenodo v1.3.0 contains the donor-level fetal methylation analysis, matched CpG benchmark, paired comparison with the human DNMT3A W330R fibroblast signature, and the array and donor sensitivity addendum.
 
-Download the [version 1.2.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.24406697) for the frozen signature, analysis code, native result tables and figures.
+Download the [version 1.3.0 research compendium on Zenodo](https://doi.org/10.5281/zenodo.24431348) for the frozen signature, analysis code, native result tables and figures.
 
 | Fetal cohort | Stratified DNMT3L OR (95% donor bootstrap CI) | Donor permutation P | Balanced DNMT3L and DNMT3A ORs | Paired ratio (95% donor bootstrap CI) |
 | --- | ---: | ---: | ---: | ---: |
@@ -23,8 +23,11 @@ The [dated post hoc sensitivity analyses](docs/brief_report/sensitivity/) includ
 See the [Brief Report reproducibility guide](docs/brief_report/README.md) and [full estimates](docs/brief_report/estimates.tsv) for the frozen signature, inputs, and original commands.
 
 The [array and donor sensitivity addendum](docs/brief_report/array_sensitivity/)
-contains the Table S6/S7 code and results, the Qin-rule reanalysis, and the
-21 November 2026 exploratory power simulation.
+contains the Table S6/S8 code and results, the Qin-rule reanalysis, the 21
+November 2026 exploratory power simulation, and the Table S7G global
+mean-difference analysis. Across 865,743 quality-filtered CpGs, the global
+overexpression-minus-control mean beta difference was +0.011882 for raw beta,
++0.011719 after background-only Noob, and +0.001035 after ssNoob dye correction.
 
 ## Archived R1 reproducibility materials
 
